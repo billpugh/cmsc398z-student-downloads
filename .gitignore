@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+*.swp
 
 # uv files; ignore uv.lock since we don't need precise version matching
 uv.lock

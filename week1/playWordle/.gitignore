@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# uv files; ignore uv.lock since we don't need precise version matching
+uv.lock
+
+# Virtual environments
+.venv

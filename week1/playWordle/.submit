@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC398Z
+#  Project 1a: Play Wordle
+
+courseName=CMSC398Z
+semester=202508
+projectNumber=1a
+courseKey=57b54f41f7680ee9
+authentication.type=cas
+baseURL=https://submit.cs.umd.edu:443/fall2025
+submitURL=https://submit.cs.umd.edu:443/fall2025/eclipse/SubmitProjectViaEclipse

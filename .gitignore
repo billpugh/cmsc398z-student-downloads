@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+.python-version
 
 # uv files; ignore uv.lock since we don't need precise version matching
 uv.lock

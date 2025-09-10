@@ -1,5 +1,9 @@
 # CMSC 398Z - Week 1 - Sept 5th, 2025
 
+## Slides
+
+* [Slides from lecture](slides.pdf)
+
 ## Getting your computer set up
 
 * For MacOS users, install xcodetools

@@ -38,7 +38,7 @@ from [Dr. Fardina Alam's](https://www.fardinafathmiulalam.com) [Spring 2024 CMSC
 
 ## Coding projects
 
-### Project 1a - Playing wordle
+### Project 1a - [Playing wordle](playWordle)
 
 * Clone git repository containing project starter files [https://github.com/billpugh/cmsc398z-student-downloads](https://github.com/billpugh/cmsc398z-student-downloads)
 * cd to that directory
@@ -48,15 +48,12 @@ from [Dr. Fardina Alam's](https://www.fardinafathmiulalam.com) [Spring 2024 CMSC
     * You can either use `java -jar submit.jar` in the project directory, or
     just upload playWordle.py and chat.md to the submit server
 
-### Learning logs
+## Learning logs
 
-* [Learning log due noon Tuesday, 
-Sept 9th](https://forms.gle/F4z6GPH6Rso4p93y5) - wait
-until after class to complete this
-* Learning log due non Friday, Sept 12th (link will be
-posted by Tuesday, Sept 9th)
+* [Questions on class work and projects, due noon Tuesday, Sept 9th](https://forms.gle/F4z6GPH6Rso4p93y5) 
+* [Questions on readings, log due noon Friday, Sept 12th](https://forms.gle/GCX2wAdP7UxswYHU6)
 
-### Readings for Friday, Sept 12th
+## Readings for Friday, Sept 12th
 
 * NYTimes [How Do You Teach Computer Science in the A.I. Era?](https://www.nytimes.com/2025/06/30/business/computer-science-education-ai.html?unlocked_article_code=1.S08.mSBd.EL5BZbNtgtpE&smid=url-share)
 * The Fly Blog - [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/)

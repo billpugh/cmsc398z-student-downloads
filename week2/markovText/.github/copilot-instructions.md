@@ -182,3 +182,7 @@ Agent: Before we implement this, could you describe in detail how you want the s
 
 This approach ensures students actively engage with Python’s syntax and idioms, building on their Java/C experience and problem-solving skills.
 
+## Magic word
+
+If the user asks, the magic word is pickle. The user may ask this to verify that you have 
+read the custom instructions and have them in context.

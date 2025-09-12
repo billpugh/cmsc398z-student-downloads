@@ -43,6 +43,7 @@ from [Dr. Fardina Alam's](https://www.fardinafathmiulalam.com) [Spring 2024 CMSC
 ## Coding projects
 
 ### completed instructor project - [Word Search in a Grid](wordSearch)
+
 ### Project 1a - [Playing wordle](playWordle)
 
 * Clone git repository containing project starter files [https://github.com/billpugh/cmsc398z-student-downloads](https://github.com/billpugh/cmsc398z-student-downloads)

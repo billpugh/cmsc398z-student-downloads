@@ -42,7 +42,6 @@ from [Dr. Fardina Alam's](https://www.fardinafathmiulalam.com) [Spring 2024 CMSC
 
 ## Coding projects
 
-### completed instructor project - [Word Search in a Grid](wordSearch)
 
 ### Project 1a - [Playing wordle](playWordle)
 
@@ -53,6 +52,14 @@ from [Dr. Fardina Alam's](https://www.fardinafathmiulalam.com) [Spring 2024 CMSC
 * Submit your Python code and chat.md to the [submit server](https://submit.cs.umd.edu/)
     * You can either use `java -jar submit.jar` in the project directory, or
     just upload playWordle.py and chat.md to the submit server
+
+### Instructor project [Word Search in a Grid](wordSearch)
+
+Contains just the code we managed to complete in class.
+
+### Completed Instructor project [Word Search in a Grid](wordSearch-finished)
+
+A completed version of the project (although without enough unit tests)
 
 ## Learning logs
 

@@ -6,6 +6,7 @@ dist/
 wheels/
 *.egg-info
 .python-version
+.DS_Store
 
 # uv files; ignore uv.lock since we don't need precise version matching
 uv.lock

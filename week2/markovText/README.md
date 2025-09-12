@@ -1,5 +1,7 @@
 # Documenting Markov Model text generation
 
+This project takes training files on the command line, and then generates random text based on the training data. The text is colored to show you where the model had a choice in what word came next. If a word is white or black, there was only one choice. For red words, there was a choice. The more intense the red color, the more choices. 
+
 For this project, the [code is completely written](markov_model.py), but undocumented. Your task is to spend time trying to understand this code and add appropriate comments. In particular, you need to add [docstring](https://peps.python.org/pep-0257/) comments for:
 
 * The class MarkovModel

@@ -20,8 +20,6 @@ class WordGrid:
         self.__grid.append(' ' * (self.__cols + 1))
         self.__rows = len(grid)
 
-    # TODO(student): Add methods for accessing or modifying the grid if needed
-
     def find_at(self, word: str, row: int, col: int, dir: 'Dir') -> bool:
         """
         Check if a word exists in the grid starting at (row, col) and moving in the given direction.

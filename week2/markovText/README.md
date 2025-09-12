@@ -15,7 +15,7 @@ And comment the following, even if they aren't technically docstrings:
 ## running the project
 
 You will need to use `uv venv` to build the uv venv in order to be able to run the project.
-Typing ``uv run markovModel Sherlock.txt` will generate text from the stories of Sherlock Holmes. 
+Typing ``uv run markov_model.py Sherlock.txt` will generate text from the stories of Sherlock Holmes. 
 Examine the code to understand what can be supplied on the command line.
 
 ## References on Markov Text generation

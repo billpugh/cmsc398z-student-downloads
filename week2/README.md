@@ -1,13 +1,15 @@
 # CMSC 398Z - Week 2 - Sept 12th, 2025
 
+## Slides from lecture
+
+* [Slides](slides.pdf)
+
+
 ## Coding projects
 
 ### Project 2a - [Markov Text](markovText)
 
 ### optional project [Wordle helper](wordle-helper)
-
-
-
 
 ## Learning logs
 

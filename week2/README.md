@@ -15,7 +15,7 @@
 
 * [Questions on class work and projects, due noon Tuesday, Sept 16th](https://docs.google.com/forms/d/e/1FAIpQLSfGlv2USmlQfCp9ttZ_lbxpZB73gSIPjdhymMDdq7q69pO61A/viewform?usp=dialog)
 
-* [Questions on readings, log due noon Friday, Sept 19th]
+* [Questions on readings, log due noon Friday, Sept 19th](https://forms.gle/tZqRXj8KCYCnQQpS8)
 
 ## Readings for Friday, Sept 12th
 

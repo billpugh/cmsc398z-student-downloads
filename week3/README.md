@@ -2,7 +2,7 @@
 
 ## Coding projects
 
-### Project aa - [Poker analysis](poker-analysis)
+### Project 3a - [Poker analysis](poker-analysis)
 
 ## Learning logs
 

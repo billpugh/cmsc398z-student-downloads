@@ -1,0 +1,11 @@
+*.zip
+uv.lock
+.github
+.gitignore
+.python-version
+.submit
+.submitIgnore
+.submitUser
+.venv
+.vscode
+test.properties

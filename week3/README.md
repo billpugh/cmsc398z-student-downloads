@@ -16,14 +16,13 @@ and submit along with your project code
 * [Problems](https://worldfinals.icpc.global/problems/2025/finals/problems/problemset.pdf)
 * [Official scoreboard](https://worldfinals.icpc.global/scoreboard/2025/finals/index.html)
 * [UMD Placed 14th](https://www.cs.umd.edu/article/2025/09/umd-cs-team-achieves-best-ever-finish-icpc-world-finals)
-* [Gemini solved 10 problems](https://deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/)
-  * [Gemini's solutions](https://github.com/google-deepmind/gemini_icpc2025)
+* [Gemini solved 10 problems](https://deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/) -  [Gemini's solutions](https://github.com/google-deepmind/gemini_icpc2025)
 * [OpenAI solved 12 with special model, 11 with ChatGPT-5](https://x.com/OpenAI/status/1968368133024231902?utm_source=chatgpt.com)
 
 ## Readings for Friday, Sept 26th
 
 * Learning how to use VSCode + Copilot well
-  *[Best practices](https://docs.github.com/en/copilot/get-started/best-practices)
+  * [Best practices](https://docs.github.com/en/copilot/get-started/best-practices)
   * [Prompt engineering](https://code.visualstudio.com/docs/copilot/chat/prompt-crafting)
   * [Using Chat](https://docs.github.com/en/copilot/how-tos/chat-with-copilot/chat-in-ide)
   * [Getting code suggestions](https://docs.github.com/en/copilot/how-tos/get-code-suggestions/get-ide-code-suggestions)

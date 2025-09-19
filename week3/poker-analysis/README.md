@@ -107,6 +107,7 @@ elegant and clever coding. Might have been better to also do a more brute force 
 
 You might want to allow the number of trials to be specified on the command line. In the example below I used 1,000,000 trials, which is a lot, and take a several minutes to run. Your results will not match exactly:
 
+```text
 Enter cards (e.g. 'AS 9H'), or 'stop' to quit.
 > AS 9H
            hand  percent  trials    2      3      4      5      6      7      8      9     10

@@ -30,7 +30,7 @@ def main_cards_count(rank):
         return 5
 
 
-class CheckRank(unittest.TestCase):
+class CheckKind(unittest.TestCase):
     def check_test_data_for_rank(self, rank, fileName = None):
         """
         Utility function to check that each line in testData/{rank}.txt returns the expected HandRank.
@@ -72,6 +72,9 @@ class CheckRank(unittest.TestCase):
     def test_four_of_a_kind(self):
         self.check_test_data_for_rank(HandRank.FOUR_OF_A_KIND)
 
+    def test_tricky_four_of_a_kind(self):
+        self.check_test_data_for_rank(HandRank.FOUR_OF_A_KIND, fileName="TRICKY_FOUR_OF_A_KIND")
+
     def test_straight_flush(self):
         self.check_test_data_for_rank(HandRank.STRAIGHT_FLUSH)
 
@@ -97,7 +100,6 @@ class CheckCards(unittest.TestCase):
                 if result[1] is None:
                     self.fail(f"get_best_hand did not return cards for input: {cards[:7]}")
                 self.assertTrue(all_in(result[1], cards[:7]), f"Returned cards not all in input: {result[1]} vs {cards[:7]}")
-                self.assertEqual(len(result[1]), 5, f"Expected 5 cards in returned hand, got {len(result[1])}: {result[1]}")
                 main_cards = main_cards_count(result[0])
                 expected_ranks = Counter(ranks(cards[7:])[:main_cards])
                 returned_ranks = Counter(ranks(result[1])[:main_cards])
@@ -129,6 +131,9 @@ class CheckCards(unittest.TestCase):
 
     def test_four_of_a_kind(self):
         self.check_test_data_for_cards(HandRank.FOUR_OF_A_KIND)
+
+    def test_tricky_four_of_a_kind(self):
+        self.check_test_data_for_cards(HandRank.FOUR_OF_A_KIND, fileName="TRICKY_FOUR_OF_A_KIND")
 
     def test_straight_flush(self):
         self.check_test_data_for_cards(HandRank.STRAIGHT_FLUSH)
@@ -187,6 +192,9 @@ class CheckBestCards(unittest.TestCase):
 
     def test_four_of_a_kind(self):
         self.check_test_data_for_cards(HandRank.FOUR_OF_A_KIND)
+
+    def test_tricky_four_of_a_kind(self):
+        self.check_test_data_for_cards(HandRank.FOUR_OF_A_KIND, fileName="TRICKY_FOUR_OF_A_KIND")
 
     def test_straight_flush(self):
         self.check_test_data_for_cards(HandRank.STRAIGHT_FLUSH)

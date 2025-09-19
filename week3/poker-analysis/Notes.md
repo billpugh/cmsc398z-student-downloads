@@ -26,6 +26,15 @@ Describe any discussions you had at your table or with partners before you start
 
 Describe any work you did with an AI before starting to write executable code. So that might be just discussions about the design, or thinking about the functions, data structures and classes you might use for the project.
 
+## Learn anything new about Python?
+
+While working on Python, did the model introduce any features or techniques you weren't familiar with? 
+If so, describe one of them and whether you felt you gained an understanding of them.
+
+## Any notable mistakes or places where you felt you needed to override the model
+
+If there were multiple instances, describe whatever you felt was most interesting. 
+
 ## Writing code for the project
 
 Describe your experiences writing code for the project (with whatever level of help you want from AI)

@@ -3,3 +3,15 @@ County_Foreclosures_augmented.csv
 County_Foreclosures.csv
 pg_county_boundary.geojson
 Prince_Georges_County_Maintained_Roads_-7480761036642557875.geojson
+__pycache__
+*.zip
+*.jar
+uv.lock
+.github
+.gitignore
+.python-version
+.submit
+.submitIgnore
+.submitUser
+.venv
+.vscode

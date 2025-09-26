@@ -11,7 +11,7 @@
 ## Learning logs
 
 * [Questions on class work and projects, due noon
-Tuesday, Sept 40rd](foreclosures/Notes.md) - put in Notes.md
+Tuesday, Sept 30rd](foreclosures/Notes.md) - put in Notes.md
 and submit along with your project code
 * There will be questions on the work by Dr. Porter. I will take some of your thoughts and questions about his work and pose them to Dr. Porter.
 

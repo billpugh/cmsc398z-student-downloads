@@ -4,6 +4,10 @@
 
 ### Project 4 - [Foreclosures](foreclosures)
 
+## Slides
+
+[Slides](slides.pdf)
+
 ## Learning logs
 
 * [Questions on class work and projects, due noon

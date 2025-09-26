@@ -9,7 +9,7 @@
 * [Questions on class work and projects, due noon
 Tuesday, Sept 23rd](poker-analysis/Notes.md) - put in Notes.md
 and submit along with your project code
-* Questions on readings, log due noon Friday, Sept 26th - TBA
+* No questions on readings this week, but please do the readings
 
 ## ICPC 2025 competition
 

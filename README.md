@@ -9,3 +9,4 @@ Everyone is welcome to use this material to follow along with material described
 * [Week 1, Sept 5](week1) - Setting the stage, playWordle project
 * [Week 2, Sept 12](week2) - MarkovModel project
 * [Week 3, Sept 19](week3) - Poker analysis project
+* [Week 4, Sept 26th](week4) - csv, json, Foreclosures project

@@ -2,29 +2,21 @@
 
 ## Coding projects
 
-### Project 3a - [Poker analysis](poker-analysis)
+### Project 4 - [Foreclosures](foreclosures)
 
 ## Learning logs
 
 * [Questions on class work and projects, due noon
-Tuesday, Sept 23rd](poker-analysis/Notes.md) - put in Notes.md
+Tuesday, Sept 40rd](foreclosures/Notes.md) - put in Notes.md
 and submit along with your project code
-* No questions on readings this week, but please do the readings
+* There will be questions on the work by Dr. Porter. I will take some of your thoughts and questions about his work and pose them to Dr. Porter.
 
-## ICPC 2025 competition
+## Readings for Friday, Oct 3rd
 
-* [Problems](https://worldfinals.icpc.global/problems/2025/finals/problems/problemset.pdf)
-* [Official scoreboard](https://worldfinals.icpc.global/scoreboard/2025/finals/index.html)
-* [UMD Placed 14th](https://www.cs.umd.edu/article/2025/09/umd-cs-team-achieves-best-ever-finish-icpc-world-finals)
-* [Gemini solved 10 problems](https://deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/) -  [Gemini's solutions](https://github.com/google-deepmind/gemini_icpc2025)
-* [OpenAI solved 12 with special model, 11 with ChatGPT-5](https://x.com/OpenAI/status/1968368133024231902?utm_source=chatgpt.com)
+Work by [Leo Porter from UCSD](https://leoporter.ucsd.edu), who will be visiting UMD and giving a talk at 11am on Wednesday Oct 8th in IRB 4105. His group has done some of the most forwarding thinking work on how CS courses might be updated in the age of AI coding tools.
 
-## Readings for Friday, Sept 26th
-
-* Learning how to use VSCode + Copilot well
-  * [Best practices](https://docs.github.com/en/copilot/get-started/best-practices)
-  * [Prompt engineering](https://code.visualstudio.com/docs/copilot/chat/prompt-crafting)
-  * [Using Chat](https://docs.github.com/en/copilot/how-tos/chat-with-copilot/chat-in-ide)
-  * [Getting code suggestions](https://docs.github.com/en/copilot/how-tos/get-code-suggestions/get-ide-code-suggestions)
-  * [Using GitHub Copilot in the command line](https://docs.github.com/en/copilot/how-tos/use-copilot-for-common-tasks/use-copilot-in-the-cli)
-* optional: [Python: The Documentary | An origin story](https://youtu.be/GfH4QL4VqJ0?si=8ndiCJ3NYxERkO0u)
+* [In This Era of AI, Will Everyone Be a Programmer?](https://today.ucsd.edu/story/in-this-era-of-ai-will-everyone-be-a-programmer)
+* [CS1-LLM: Integrating LLMs into CS1 Instruction](https://mcs.utm.utoronto.ca/~zingarod/iticse24_cs1llm.pdf)
+  * [LLM Notebook audio overview](https://notebooklm.google.com/notebook/7597e193-0889-4dfd-8ba7-3c2369608ce9?artifactId=32ab9252-0020-4a29-8390-70f3998ff8ea)
+* optional: [Students' Use of GitHub Copilot for Working with Large Code Bases](https://dl.acm.org/doi/10.1145/3641554.3701800)
+  * [LLM Notebook audio overview](https://notebooklm.google.com/notebook/5deff162-c2e4-4c77-9cac-04fecf4b95c1?artifactId=f8563b23-12b5-4beb-9c3b-46f138a912e3)

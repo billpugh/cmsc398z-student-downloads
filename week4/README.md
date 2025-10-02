@@ -13,7 +13,9 @@
 * [Questions on class work and projects, due noon
 Tuesday, Sept 30th](foreclosures/Notes.md) - put in Notes.md
 and submit along with your project code
-* There will be questions on the work by Dr. Porter. I will take some of your thoughts and questions about his work and pose them to Dr. Porter.
+* Due Oct 3rd, 2pm
+  * [Questions on readings of papers from Dr. Leo Porter](https://forms.gle/bTTMcKffkMQDunAd8)
+  * [Slido page to pose your own questions to Dr. Porter](https://app.sli.do/event/h5zZrF2iG2vsegJ5jCV34Q)
 
 ## Readings for Friday, Oct 3rd
 

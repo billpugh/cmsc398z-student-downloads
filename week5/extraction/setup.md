@@ -7,6 +7,7 @@ To setup your environment, cd to the week5 directory, and give the commands:
 
 ```bash
 uv venv
+uv sync
 source .venv/bin/activate
 ```
 

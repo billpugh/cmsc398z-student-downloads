@@ -1,4 +1,4 @@
-# CMSC 398Z - Week 3 - Sept 19th, 2025
+# CMSC 398Z - Week 4 - Sept 26th, 2025
 
 ## Coding projects
 

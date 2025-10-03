@@ -10,3 +10,4 @@ Everyone is welcome to use this material to follow along with material described
 * [Week 2, Sept 12](week2) - MarkovModel project
 * [Week 3, Sept 19](week3) - Poker analysis project
 * [Week 4, Sept 26th](week4) - csv, json, Foreclosures project
+* [Week 5, Oct 3rd](week5) - Simon Willison's llm tool, structured data extraction

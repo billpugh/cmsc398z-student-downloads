@@ -1,0 +1,14 @@
+[project]
+name = "week5"
+version = "0.1.0"
+description = "Week 5 for CMSC 395z - using LLM"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasette>=0.65.1",
+    "llm>=0.27",
+    "llm-cmd>=0.2a0",
+    "llm-docs>=0.2.1",
+    "llm-fragments-github>=0.4",
+    "sqlite-utils>=3.38",
+]

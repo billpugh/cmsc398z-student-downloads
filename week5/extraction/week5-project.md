@@ -95,7 +95,7 @@ This example comes from [Derek's nicar25-pdfs github repository](https://github.
 
 The [PDF file is here](https://raw.githubusercontent.com/dwillis/nicar25-pdfs/refs/heads/main/BlackPop1930.pdf). There are several reasons this is a challenging document to extract data from. You might want to provide a straight forward scheme and instructions and see how that works before trying to fine tune the instructions. The things that look challenging to you might not be challenging to the model.
 
-Your ultimate goal is to generate csv or python file with at least the following entries:
+Your ultimate goal is to generate csv or json file with at least the following entries:
 
 * City and State
 * Population in 1930

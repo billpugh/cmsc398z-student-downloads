@@ -15,6 +15,7 @@ Tuesday, Oct th](extractions/Results.md) - put in Results.md
 and submit along with your project code
 * Due Oct 10th, 2pm
   * Learn something new about the llm tool, not covered in our Oct 3rd class or the rest of Simon's pycon workshop, play with it, and write up a short description of what capability you learned about and your experiences with it. 
+  * Write this up in something-new.md in the extractions directory, and then do a new submission of Project 5 that will include that file. 
 
 ## Readings for Friday, Oct 10th
 

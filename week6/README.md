@@ -20,3 +20,4 @@ and submit along with your project code
 
 * [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/), by Simon Willison
 * Bill, Derek and Simon chat - video coming
+* [Political Email Extraction Leaderboard](https://thescoop.org/LLM-Extraction-Challenge/) optional

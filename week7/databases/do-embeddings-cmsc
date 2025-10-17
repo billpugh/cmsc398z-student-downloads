@@ -1,0 +1,6 @@
+uv run llm embed-multi courses \
+  -d cmsc_course_embeddings.db \
+  --attach umd umd-202508.db \
+  --sql "select course_id, title, description from umd.course_info where department='CMSC'" \
+  --store \
+  -m text-embedding-3-small-512

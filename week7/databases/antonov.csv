@@ -1,0 +1,63 @@
+term_id,course_id,section_id,title,meeting_type,days,start_time,end_time
+202508,CMSC131,0101,Object-Oriented Programming I,Lecture,MWF,10:00am,10:50am
+202508,CMSC131,0102,Object-Oriented Programming I,Lecture,MWF,10:00am,10:50am
+202508,CMSC131,0103,Object-Oriented Programming I,Lecture,MWF,10:00am,10:50am
+202508,CMSC131,0104,Object-Oriented Programming I,Lecture,MWF,10:00am,10:50am
+202508,CMSC131,0201,Object-Oriented Programming I,Lecture,MWF,1:00pm,1:50pm
+202508,CMSC131,0202,Object-Oriented Programming I,Lecture,MWF,1:00pm,1:50pm
+202508,CMSC131,0203,Object-Oriented Programming I,Lecture,MWF,1:00pm,1:50pm
+202508,CMSC131,0204,Object-Oriented Programming I,Lecture,MWF,1:00pm,1:50pm
+202508,CMSC131,0205,Object-Oriented Programming I,Lecture,MWF,1:00pm,1:50pm
+202508,CMSC131,0206,Object-Oriented Programming I,Lecture,MWF,1:00pm,1:50pm
+202508,CMSC131,0301,Object-Oriented Programming I,Lecture,MWF,11:00am,11:50am
+202508,CMSC131,0302,Object-Oriented Programming I,Lecture,MWF,11:00am,11:50am
+202508,CMSC131,0303,Object-Oriented Programming I,Lecture,MWF,11:00am,11:50am
+202508,CMSC131,0304,Object-Oriented Programming I,Lecture,MWF,11:00am,11:50am
+202508,CMSC131,0305,Object-Oriented Programming I,Lecture,MWF,11:00am,11:50am
+202508,CMSC131,0401,Object-Oriented Programming I,Lecture,MWF,12:00pm,12:50pm
+202508,CMSC131,0402,Object-Oriented Programming I,Lecture,MWF,12:00pm,12:50pm
+202508,CMSC131,0403,Object-Oriented Programming I,Lecture,MWF,12:00pm,12:50pm
+202508,CMSC131,0404,Object-Oriented Programming I,Lecture,MWF,12:00pm,12:50pm
+202508,CMSC131,0405,Object-Oriented Programming I,Lecture,MWF,12:00pm,12:50pm
+202508,CMSC132,0201,Object-Oriented Programming II,Lecture,MWF,2:00pm,2:50pm
+202508,CMSC132,0202,Object-Oriented Programming II,Lecture,MWF,2:00pm,2:50pm
+202508,CMSC132,0203,Object-Oriented Programming II,Lecture,MWF,2:00pm,2:50pm
+202508,CMSC132,0204,Object-Oriented Programming II,Lecture,MWF,2:00pm,2:50pm
+202508,CMSC132,0205,Object-Oriented Programming II,Lecture,MWF,2:00pm,2:50pm
+202508,CMSC132,0206,Object-Oriented Programming II,Lecture,MWF,2:00pm,2:50pm
+202508,CMSC132,0301,Object-Oriented Programming II,Lecture,MWF,9:00am,9:50am
+202508,CMSC132,0302,Object-Oriented Programming II,Lecture,MWF,9:00am,9:50am
+202508,CMSC132,0303,Object-Oriented Programming II,Lecture,MWF,9:00am,9:50am
+202508,CMSC132,0304,Object-Oriented Programming II,Lecture,MWF,9:00am,9:50am
+202508,CMSC132,0305,Object-Oriented Programming II,Lecture,MWF,9:00am,9:50am
+202508,CMSC132,0306,Object-Oriented Programming II,Lecture,MWF,9:00am,9:50am
+202508,CMSC216,0101,Introduction to Computer Systems,Lecture,TuTh,9:30am,10:45am
+202508,CMSC216,0102,Introduction to Computer Systems,Lecture,TuTh,9:30am,10:45am
+202508,CMSC216,0103,Introduction to Computer Systems,Lecture,TuTh,9:30am,10:45am
+202508,CMSC216,0104,Introduction to Computer Systems,Lecture,TuTh,9:30am,10:45am
+202508,CMSC216,0105,Introduction to Computer Systems,Lecture,TuTh,9:30am,10:45am
+202508,CMSC216,0106,Introduction to Computer Systems,Lecture,TuTh,9:30am,10:45am
+202508,CMSC216,0201,Introduction to Computer Systems,Lecture,TuTh,11:00am,12:15pm
+202508,CMSC216,0202,Introduction to Computer Systems,Lecture,TuTh,11:00am,12:15pm
+202508,CMSC216,0203,Introduction to Computer Systems,Lecture,TuTh,11:00am,12:15pm
+202508,CMSC216,0204,Introduction to Computer Systems,Lecture,TuTh,11:00am,12:15pm
+202508,CMSC216,0205,Introduction to Computer Systems,Lecture,TuTh,11:00am,12:15pm
+202508,CMSC216,0206,Introduction to Computer Systems,Lecture,TuTh,11:00am,12:15pm
+202508,CMSC320,0301,Introduction to Data Science,Lecture,TuTh,3:30pm,4:45pm
+202508,CMSC330,0101,Organization of Programming Languages,Lecture,TuTh,12:30pm,1:45pm
+202508,CMSC330,0102,Organization of Programming Languages,Lecture,TuTh,12:30pm,1:45pm
+202508,CMSC330,0103,Organization of Programming Languages,Lecture,TuTh,12:30pm,1:45pm
+202508,CMSC330,0104,Organization of Programming Languages,Lecture,TuTh,12:30pm,1:45pm
+202508,CMSC330,0105,Organization of Programming Languages,Lecture,TuTh,12:30pm,1:45pm
+202508,CMSC330,0106,Organization of Programming Languages,Lecture,TuTh,12:30pm,1:45pm
+202508,CMSC330,0107,Organization of Programming Languages,Lecture,TuTh,12:30pm,1:45pm
+202508,CMSC330,0201,Organization of Programming Languages,Lecture,TuTh,2:00pm,3:15pm
+202508,CMSC330,0202,Organization of Programming Languages,Lecture,TuTh,2:00pm,3:15pm
+202508,CMSC330,0203,Organization of Programming Languages,Lecture,TuTh,2:00pm,3:15pm
+202508,CMSC330,0204,Organization of Programming Languages,Lecture,TuTh,2:00pm,3:15pm
+202508,CMSC330,0205,Organization of Programming Languages,Lecture,TuTh,2:00pm,3:15pm
+202508,CMSC330,0206,Organization of Programming Languages,Lecture,TuTh,2:00pm,3:15pm
+202508,CMSC335,0101,Web Application Development with JavaScript,Lecture,TuTh,8:00am,9:15am
+202508,CMSC351,0101,Algorithms,Lecture,MWF,8:00am,8:50am
+202508,CMSC351,0301,Algorithms,Lecture,MWF,3:00pm,3:50pm
+202508,DATA320,0301,Introduction to Data Science,Lecture,TuTh,3:30pm,4:45pm

@@ -1,0 +1,14 @@
+[project]
+name = "week7"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasette>=0.65.1",
+    "llm>=0.27.1",
+    "llm-cmd>=0.2a0",
+    "llm-docs>=0.2.1",
+    "llm-fragments-github>=0.4",
+    "sqlite-utils>=3.38",
+]

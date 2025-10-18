@@ -1,6 +1,6 @@
 uv run llm embed-multi courses \
   -d course_embeddings.db \
-  --attach alldb umd-202508.db \
-  --sql 'select course_id, title, description from alldb.course_info' \
+  --attach umd umd-202508.db \
+  --sql 'select course_id, title, description from umd.course_info' \
   --store \
   -m text-embedding-3-small-512

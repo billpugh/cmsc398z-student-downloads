@@ -6,7 +6,7 @@ Ask a question of your database in English, get a response from a custom SQL que
 
 ## The UMD course database
 
-I developed a project to scrap the the Testudo web site to collect data about UMD courses.
+Bill Pugh developed a project to scrap the the Testudo web site to collect data about UMD courses.
 
 Download and save the course database from [https://www.cs.umd.edu/class/fall2025/cmsc398z/files/umd-202508.db](https://www.cs.umd.edu/class/fall2025/cmsc398z/files/umd-202508.db)
 

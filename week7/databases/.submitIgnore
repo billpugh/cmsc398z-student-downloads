@@ -1,2 +1,17 @@
+cmsc_course_embeddings.db
 course_embeddings.db
+do-embeddings-all
+do-embeddings-cmsc
+pyproject.toml
+schema_diagram_complete.md
+schema_diagram.md
+schema.sql
+semantic-search-and-rag.md
+text_to_sql_cli.py
+text_to_sql.py
+text-to-sql.md
+tools.md
 umd-202508.db
+umd-qa.sh
+umd-schema.sql
+uv.lock

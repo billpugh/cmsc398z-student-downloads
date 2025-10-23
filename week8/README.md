@@ -8,21 +8,17 @@
 
 * [Getting set up in Claude](gettingSetUpInClaude.md)
 
-* [WordSearch directions](wordSearch.md)
+* [WordSearch directions](wordSearch.md) - do this in the 
     [wordSearch directory](wordSearch)
 
 * [Modifying the idle editor distributed with Python](modifyingIdle.md)
 
-* If you have time for it, start looking at 
-[congressionalReview.md](congressionalReview.md). We are going to be spending more time on that next week. 
-
 ## Submission of work for this week
 
-In the databases project folder, modify [studentWork.md](databases/studentWork.md) with the following information, and submit it via the submit server.
+Submit from within the week 8 directory:
 
-* A question you asked about the course database, your experience getting valid SQL to get that data, and what you learned from the results.
-* A question you asked about the course database using embeddings, and what you learned from the results.
-
-If you have additional files that contain things such as your question, generated SQL and results, it would be good to
-submit those as well and reference those from studentWork.md.
-
+* [wordSearch-review.md](wordSearch-review.md) - in the week8 directory, so Claude won't see it when you are working on wordSearch
+* The following files should be copied to the week8 directory from your cpython folder, reflecting work on [Modifying Idle](modifyingIdle.md)
+* [goto-design.md](goto-design.md) - written by Claude
+* [goto-implementation.md](goto-implementation.md) - written by Claude
+* [goto-review.md](goto-review.md) - Your review of Claude's work on modifying idle and the design and review documents above

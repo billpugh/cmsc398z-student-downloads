@@ -1,0 +1,16 @@
+cpython
+congressional-record
+*.pyc
+*.py~
+*.out
+*.log
+auxdata/
+*.sql~
+dbfiles/
+.cache
+*.egg-info
+.venv
+__pycache__
+build
+dist
+*.ipynb

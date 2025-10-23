@@ -6,7 +6,8 @@ In particular, we are going to ask you to modify the IDLE editor distributed as 
 
 * Try running idle. You may already have it on your path as 'idle3', or you can use 'uvx python -m idlelib'
 
-* Download the [cpython repository from GitHub](https://github.com/python/cpython)
+* Clone the [cpython repository from GitHub](https://github.com/python/cpython) - You can do this within the week8 directory, or someplace else. 
+  * You won't be submitting this directory as part of your project submission this week. Instead, after you are done you will copy some files to the week 8 directory to submit. 
 * If you want to be able to actually build and test the code, you will need to [install the dependencies](https://devguide.python.org/getting-started/setup-building/#install-dependencies). If this is challenging for you to do, you can skip this and just ask Claude to build the code without being able to test it.
 * move the [cpython-CLAUDE.md](cpython-CLAUDE.md) file into the cpython directory and name it 'CLAUDE.md' This is what I got giving the '/init' command inside the cpython directory. You could do that yourself rather than moving this file, but this will save you a minute or two of type and the Claude usage needed to build it. Note that using '/init', like any LLM use, is nondeterministic. I tried using it twice, and got different files, one longer than the other
 * Tell Claude that we are only going to be making changes to '@Lib/idlelib'.

@@ -11,3 +11,6 @@ Everyone is welcome to use this material to follow along with material described
 * [Week 3, Sept 19](week3) - Poker analysis project
 * [Week 4, Sept 26th](week4) - csv, json, Foreclosures project
 * [Week 5, Oct 3rd](week5) - Simon Willison's llm tool, structured data extraction
+* [Week 6, Oct 10rd](week6) - Simon Willison's llm tool, structured data extraction
+* [Week 7, Oct 17th](week7) - Using the llm tool for generating sql and using vector embeddings for similarity search
+* [Week 8, Oct 24th](week8) - Getting started with Claude Code

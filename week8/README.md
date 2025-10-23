@@ -1,14 +1,10 @@
 # CMSC 398Z - Week 8 - Oct 24th, 2025
 
-## Coding projects
-
-### Project 8a - [Datebases](databases)
-
 ## Work in class
 
 * [Getting set up in Claude](gettingSetUpInClaude.md)
 
-* [WordSearch directions](wordSearch.md) - do this in the 
+* [WordSearch directions](wordSearch.md) - do this in the
     [wordSearch directory](wordSearch)
 
 * [Modifying the idle editor distributed with Python](modifyingIdle.md)
@@ -21,4 +17,4 @@ Submit from within the week 8 directory:
 * The following files should be copied to the week8 directory from your cpython folder, reflecting work on [Modifying Idle](modifyingIdle.md)
 * [goto-design.md](goto-design.md) - written by Claude
 * [goto-implementation.md](goto-implementation.md) - written by Claude
-* [goto-review.md](goto-review.md) - Your review of Claude's work on modifying idle and the design and review documents above
+* [goto-review.md](goto-review.md) - Your review of Claude's work on modifying idle and the design and implementation documents above.

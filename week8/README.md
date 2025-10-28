@@ -2,6 +2,8 @@
 
 ## Work in class
 
+* [Slides](slides.pdf)
+
 * [Getting set up in Claude](gettingSetUpInClaude.md)
 
 * [WordSearch directions](wordSearch.md) - do this in the

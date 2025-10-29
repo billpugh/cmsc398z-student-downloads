@@ -25,7 +25,7 @@ Submit from within the week 8 directory by Tuesday, Oct 28th:
 
 ## Readings for next week, Oct 31st
 
-* Survey on readings to be posted by Tuesday, Oct 28th
+* [Survey on readings](https://forms.gle/A8ZdmHbgQUWbonZd6)
 
 * [Simon Willison on Claude Skills](https://simonwillison.net/2025/Oct/16/claude-skills/)
   * [Documentation on skills](https://www.anthropic.com/news/skills)

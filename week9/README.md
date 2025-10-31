@@ -141,3 +141,7 @@ When you have are satisfied with your work on the project, push your changes and
 
 Take more time to work on the project if needed. Make a pull request no later than Tuesday at noon, even if you don't feel your work is 
 complete. We will try to look at your pull requests and provide you with feedback before next class.
+
+## Internship Opportunity: The New York Times
+
+The New York Times' Interactive News Technology group is looking for [paid summer 2026 intern](https://www.nytco.com/careers/job-listings/4624028005-interactive-news-engineering-intern) to write software used by Times journalists and projects that millions of readers will see. Derek used to work on this team, which bridges the newsroom and technology departments. If the work on this project is something you're interested in, the deadline is Nov. 3 - Tuesday!

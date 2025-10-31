@@ -124,4 +124,7 @@ Add and commit your work as you make progress. You can push your changes to gitl
 When you have are satisfied with your work on the project, push your changes and make a pull request.
 
 
-## Readings for next week, Oct 31st
+## No readings for next week
+
+Take more time to work on the project if needed. Make a pull request no later than Tuesday at noon, even if you don't feel your work is 
+complete. We will try to look at your pull requests and provide you with feedback before next class.

@@ -68,6 +68,19 @@ Roughly 1/3 of the content items with kind="speech" have a null entry for speake
 
 ## How we are going to do work
 
+Hopefully, the steps described here will allow you to create a gitlab repository 
+and do your work in it so that you can create a pull request. But we've never done this before.
+
+### Emergancy option if using gitlab.cs.umd.edu doesn't work
+
+Only do the following if we declare that gitlab.cs.umd.edu isn't goint to work today, and we want you to use this alternative method:
+
+```bash
+git clone https://github.com/billpugh/congressional-record.git
+```
+
+to get a copy of the repository you can work on, and we will figure out how to allow you to submit your work. 
+
 ### Creating a repository in which to do your work
 
 If you download the repository last week to look at it, delete that or rename it. You will need to check out a fresh copy.

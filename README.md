@@ -14,3 +14,4 @@ Everyone is welcome to use this material to follow along with material described
 * [Week 6, Oct 10rd](week6) - Simon Willison's llm tool, structured data extraction
 * [Week 7, Oct 17th](week7) - Using the llm tool for generating sql and using vector embeddings for similarity search
 * [Week 8, Oct 24th](week8) - Getting started with Claude Code
+* [Week 9, Oct 31st](week9) - Working on congressional record

@@ -3,10 +3,14 @@
 ## Work in class
 
 Not planning on any coding in class today.
-	But there will be discussion and requests for presentations from student teams.
+But there will be discussion and requests for presentations from student teams.
+
 Topics:
 
+* [Slides](slides.pdf)
+
 * Tips at using Claude
+  * [To help you push the limits of parallel work, we’re giving you $250 in free usage credits exclusively for Claude Code on the web—separate from your Pro plan limits. These credits are available now and must be used by November 18 at 11:59 PM PT. ](https://links.email.claude.com/s/c/Nz8m0EhwCr_ZEAh_aq-MxFfx7OOMQ6cVBhPTHvORCTvCFZjLkLeIo1iZznud7HuS_7oSlzvVLg9R7doYJGKNS9A1QUSKTPE6hHZdlm7mRe0GaAoEmwoiZIU7CHpDyUirOLpR3gAKgRTNhOnKtHIWR9e7D8r_0oVy3WznFPT6k29p9y045fTtaYpMYkMqP941Rkg3qQEiDYeZe8LZ47BsR5TUoouSm6eqy-AyzZtEBsHCBVtigHst1obhOQ0y7w9MRJtFkBix8K8iuWEHhky_-eoH7v0RzFM3hm03Ecit22B3eLgla5CkeOMK9D3F91XnbZflrGTfBGZLf10Xz2RDdNpbcmLPWZfFDdyXrP2sVp1CpZjv4A/bNG1Z1xgJ8AYN1ieuc_X6Onf3_yZL_Mv/14)
 * Using Gen AI for understand code
 * Reviewing work on Congressional Review
 

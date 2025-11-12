@@ -25,4 +25,4 @@ This is all material that the AI & CS education committee will be discussing Nov
   * News story [Coding is dead: UW computer science program rethinks curriculum for the AI era](https://www.geekwire.com/2025/coding-is-dead-uw-computer-science-program-rethinks-curriculum-for-the-ai-era/)
 * Rajeev Kaul’s post - [Software Engineers Should Be Excited, Not Anxious, About AI](https://www.linkedin.com/pulse/software-engineers-should-excited-anxious-ai-rajeev-kaul-eaqme/?trackingId=hN1FZdY3TUqGYxKyeURfCw%3D%3D)
 
-Survey questions will be posted by Tuesday, Nov 11th, noon
+* [Survey questions](https://forms.gle/3LVRhZiSTUEkK3o89), complete by noon Friday Nov 14th

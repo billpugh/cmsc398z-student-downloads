@@ -14,7 +14,7 @@ If you add user authentication, then you can deploy your app to [PythonAnywhere]
 You can use a free account to do this, and it is totally up to you if you want to do this.
 
 To make possible to use github to deploy your app, we have created a 
-a seperate repository, which contains just the files needed for this project. You can create your 
+seperate repository, which contains just the files needed for this project. You can create your 
 own github repository, private if you wish, and set that up as an additional remote for the project
 repository and push to there.  The project repository is [https://github.com/billpugh/cmsc398z-sma](https://github.com/billpugh/cmsc398z-sma), and you can clone it using the command below (do this somewhere 
 not inside the cmsc398z-student-downloads repository or any other repository).

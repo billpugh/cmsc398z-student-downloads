@@ -5,6 +5,7 @@
 This week, we are going to continue on the project we did last week, building a new version of the app that uses a REST API + JavaScript frontend. 
 
 Things to do:
+* IMPORTANT: Do a git pull to get recent changes to the TODO-phase2.md and some other files, with updates to the instructions. You might need to do a git pull --rebase.
 * Read ARCHITECTURE-GUIDE-phase2.md in the cmsc398z-sma directory, then
 * Open claude in the cmsc398z-sma repository, and tell it to  "Read TODO-phase2.md and guide me through Phase 2"
 

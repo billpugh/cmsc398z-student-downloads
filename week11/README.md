@@ -1,4 +1,4 @@
-# CMSC 398Z - Week 11 - Oct Nov 14th, 2025
+# CMSC 398Z - Week 11 - Nov 14th, 2025
 
 ## Work in class
 

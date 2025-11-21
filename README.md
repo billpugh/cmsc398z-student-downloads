@@ -17,3 +17,4 @@ Everyone is welcome to use this material to follow along with material described
 * [Week 9, Oct 31st](week9) - Working on congressional record
 * [Week 10, Nov 7th](week10) - Using claude effectively, reviewing work on congressional record
 * [Week 11, Nov 14th](week11) - Phase 1 of building a social media app
+* [Week 12, Nov 21st](week12) - Phase 2 of building a social media app

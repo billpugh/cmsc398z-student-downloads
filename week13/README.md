@@ -30,7 +30,7 @@ I was able to get this working with gitlab.cs.umd.edu, using my umd login name a
   * Provide https://gitlab.cs.umd.edu/cmsc398z-fall25/quuly-codespaces.git as the URL for your source repository
   * provide your gitlab.cs.umd.edu user name and access token
   * Name your repository, something like quuly or quuly-codespaces
-  * mark the repository as private
+  * **mark the repository as private** -- IMPORTANT
   * Hit the "Begin Import" button
 
 ### Using a local bridge
@@ -51,7 +51,8 @@ cd quuly-codespaces
 #### Step 2: Create the Destination Repository
 
 * Go to github.com and create a new repository
-* IMPORTANT: Select Private. Do not initialize with a README or license.
+* **IMPORTANT: Select Private.** 
+* Do not initialize with a README or license.
 * Copy the URL of this new empty repository.
 * Within the quuly-codespaces project you checked out from gitlab.cs.umd.edu, do:
 

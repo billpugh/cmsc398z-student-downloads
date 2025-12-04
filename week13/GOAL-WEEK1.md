@@ -1,8 +1,17 @@
 # Week 1 Goal: Understanding Dual-State Consistency in Quuly
 
-**Learning Objective**: Understand how Quuly maintains consistency between PostgreSQL (source of truth) and Redis (real-time queue state) during conversation state transitions, using the "dequeue" action as a case study.
+## Learning Objectives
 
-**See also**: [`docs/UNDERSTANDING_CONVERSATIONS.md`](UNDERSTANDING_CONVERSATIONS.md) for a complete reference on conversation states, transitions, and permissions.
+By the end of this session, students will be able to:
+
+1. Run Quuly locally using GitHub Codespaces
+2. Explain what a Conversation represents and its lifecycle states
+3. Trace a dequeue action through both database and Redis changes
+4. Identify the specific code responsible for each state change
+5. Explain how Redis state would be rebuilt from the database
+6. Apply code review thinking to distributed state consistency problems
+
+**Core Focus**: Understand how Quuly maintains consistency between PostgreSQL (source of truth) and Redis (real-time queue state) during conversation state transitions, using the "dequeue" action as a case study.
 
 ---
 
@@ -62,13 +71,6 @@ Students will trace what happens when a TA dequeues a student from the queue. Th
 9. If the system crashed and Redis state had to be rebuilt, what code does that?
    - Does `LoadQueues()` correctly reconstruct the queue from the database?
 
-**Backend vs Frontend Permissions:**
-10. The backend allows more state transitions than the frontend UI exposes. Review the "Frontend Constraints" section of `docs/UNDERSTANDING_CONVERSATIONS.md`. Is this a security concern? What's the worst that could happen if someone bypassed the UI?
-
-**Gaining Confidence:**
-11. What invariants should always be true about the relationship between Redis state and database state?
-12. How could you verify these invariants hold? Consider testing approaches or runtime checks.
-
 ### Code Locations to Examine
 
 | Component | File | Key Functions/Sections |
@@ -77,8 +79,6 @@ Students will trace what happens when a TA dequeues a student from the queue. Th
 | Dequeue entry point | `zion/data/queue/dequeue.go` | `Dequeue()` function |
 | Queue service | `zion/data/queue/queue_service.go` | `DequeueConversation()`, `LoadQueues()` |
 | Redis queue operations | `zion/redis/queues.go` | `Dequeue()`, `BulkInsert()` |
-| State graph & permissions | `zion/data/conversation/conversation_state_graph.go` | State transitions |
-| GraphQL resolver | `zion/resolvers/staff_mutation.go` | Entry point from API |
 
 ---
 
@@ -86,16 +86,9 @@ Students will trace what happens when a TA dequeues a student from the queue. Th
 
 **Treat this like a real code review.** The code may have bugs or edge cases. Be skeptical.
 
-Consider four categories of potential issues:
-
-1. **Database/Redis consistency**: What happens in failure scenarios? Is there any window where Redis and the database are inconsistent? If `LoadQueues` runs after a crash, would it produce the correct queue?
-
-2. **Race conditions between users**: What happens if two users try to perform conflicting operations at the same time? (e.g., two TAs dequeuing, or a student and TA acting simultaneously)
-
-3. **Backend vs Frontend permissions**: The backend allows more state transitions than the frontend UI exposes. Sometimes this is harmless—a hook for future features. Other times it can be a security hole. Which category does Quuly fall into?
-
-4. **Gaining confidence in correctness**: Beyond just reading the code, what could be done to increase confidence that the system behaves correctly? Think about testing strategies, runtime checks, or other verification approaches.
-
+- Look for any inconsistencies between database and Redis state
+- Identify places where the consistency logic is particularly tricky
+- Consider: what happens in various failure scenarios?
 - **Prizes may be awarded** for identifying actual bugs or problematic code that should be changed
 
 ---
@@ -111,9 +104,7 @@ After tracing through the code and understanding how dequeue works, write an exp
    - What database state a dequeued conversation has
    - Why a conversation that was dequeued before the crash would (or would not) incorrectly appear in the rebuilt queue
 
-3. **Backend vs Frontend permissions**: Review `docs/UNDERSTANDING_CONVERSATIONS.md` and analyze the mismatch between what the backend allows and what the frontend exposes. Is this a security concern for Quuly? Why or why not?
-
-4. **Edge cases or concerns**: Document any edge cases, potential bugs, or areas where the code is particularly fragile. This is your code review.
+3. **Edge cases or concerns**: Document any edge cases, potential bugs, or areas where the code is particularly fragile. This is your code review.
 
 **Format**: Write this as if you were doing a code review for a colleague who added this feature and asked you to verify the consistency guarantees are correct.
 

@@ -93,7 +93,7 @@ Once you have opened your codespace within VS Code, you should open a terminal w
 
 When you first start claude, it will ask you to authenticate. You will need to do this to get claude access inside of codespaces.
 
-Once claude is running, tell it `walk me through @docs/LESSON_PLAN.md`. If you want an overview
+Once claude is running, tell it `walk me through @docs/LESSON_PLAN.md`. An overview of the lesson plan is in [GOAL-WEEK1.md](GOAL-WEEK1.md).
 
 
 

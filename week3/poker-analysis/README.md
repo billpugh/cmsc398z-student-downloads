@@ -1,9 +1,9 @@
 # Poker analysis project
 
-Your task with this project is to examine a set of 7 playing cards, and determine the best poker
+Your task with this project is to examine a set of 7 playing cards, and determine the best poker hand
 that can be made from it.
 
-The different kinds of poker hands are define by the enum HankRank defined in hand_rank.py.
+The different kinds of poker hands are define by the enum HandRank defined in hand_rank.py.
 
 There are several levels to completing this project, and two side quests. The custom instructions for
 coaching mode are not present in this folder, and neither is the setting to disable auto-complete.
@@ -69,7 +69,7 @@ used for two pairs is QC QD 3S 3D AH, in the following order:
 
 ## Side quests
 
-THe following are projects you might enjoy, but will not be tested.
+The following are projects you might enjoy, but will not be tested.
 
 ### Given a partial set of 7 cards, determine chance of final hand
 
@@ -99,7 +99,7 @@ THREE_OF_A_KIND:    4.5%   44719
 Given 0-7 cards, treat the first two (if any) as the user's hole cards, and the remaining cards as community cards. Run a bunch of trials, and determine the chance that the user's hand would beat or tie the best hand of a group of other players (using the same community cards).
 
 In order to do this, you will need to implement functionality to determine,
-for example, if two hands both have a three of a kind, if one hard is stronger than the other.
+for example, if two hands both have a three of a kind, if one hand is stronger than the other.
 
 Note: I came up with something clever so that you don't have to do a completely separate trial for
 each number of players. There are less clever ways to do it that might have been fast enough, but I like

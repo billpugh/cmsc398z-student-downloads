@@ -138,7 +138,7 @@ Use the `-m` option to specify a different model. You can see a list of availabl
 ```bash
 llm models list
 ```
-Add the `--options` flag to learn more about them, including what options they support and what capabilities they hav:
+Add the `--options` flag to learn more about them, including what options they support and what capabilities they have:
 ```bash
 llm models list --options
 ```

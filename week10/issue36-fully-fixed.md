@@ -156,7 +156,7 @@ def item_builder(self):
 
 23. "OK, now I want you to look at a different issue. We have a bug report that The parser mistakenly assigned a speech as a title; To replicate this behavior, parse CREC-1997-01-28-pt1-PgS771-3. I've already downloaded that in the output/1997/CREC-1997-01-28. Please investigate."
 
-24. "I think we should do an investigation of any variation of this across multiple days, and see what variations occur. We already have 390 days of downloads in the output directory, we can start by examining those without having to do any more downloads. While we could just check to see how many spaces might occur before &lt;bullet&gt;, it might be interesting to examing all occurrents of &lt;bullet&gt;, since I would expect they would only occur in speeches."
+24. "I think we should do an investigation of any variation of this across multiple days, and see what variations occur. We already have 390 days of downloads in the output directory, we can start by examining those without having to do any more downloads. While we could just check to see how many spaces might occur before &lt;bullet&gt;, it might be interesting to examining all occurrences of &lt;bullet&gt;, since I would expect they would only occur in speeches."
 
 ## 7. Pending Tasks:
 

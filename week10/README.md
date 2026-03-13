@@ -1,4 +1,4 @@
-# CMSC 398Z - Week 10 - Oct Nov 7th, 2025
+# CMSC 398Z - Week 10 - Nov 7th, 2025
 
 ## Work in class
 
@@ -11,8 +11,8 @@ Topics:
 
 * Tips at using Claude
   * [To help you push the limits of parallel work, we’re giving you $250 in free usage credits exclusively for Claude Code on the web—separate from your Pro plan limits. These credits are available now and must be used by November 18 at 11:59 PM PT. ](https://links.email.claude.com/s/c/Nz8m0EhwCr_ZEAh_aq-MxFfx7OOMQ6cVBhPTHvORCTvCFZjLkLeIo1iZznud7HuS_7oSlzvVLg9R7doYJGKNS9A1QUSKTPE6hHZdlm7mRe0GaAoEmwoiZIU7CHpDyUirOLpR3gAKgRTNhOnKtHIWR9e7D8r_0oVy3WznFPT6k29p9y045fTtaYpMYkMqP941Rkg3qQEiDYeZe8LZ47BsR5TUoouSm6eqy-AyzZtEBsHCBVtigHst1obhOQ0y7w9MRJtFkBix8K8iuWEHhky_-eoH7v0RzFM3hm03Ecit22B3eLgla5CkeOMK9D3F91XnbZflrGTfBGZLf10Xz2RDdNpbcmLPWZfFDdyXrP2sVp1CpZjv4A/bNG1Z1xgJ8AYN1ieuc_X6Onf3_yZL_Mv/14)
-* Using Gen AI for understand code
-* Reviewing work on Congressional Review
+* Using Gen AI for understanding code
+* Reviewing work on Congressional Record
 
 ## Readings for next week
 
@@ -21,7 +21,7 @@ This is all material that the AI & CS education committee will be discussing Nov
 * [What do professional software developers need to know to succeed in an age of Artificial Intelligence?](https://arxiv.org/abs/2506.00202) FSE 2025
   * [Notebook LLM summary](https://notebooklm.google.com/notebook/75fe9cad-050c-4bb5-ab71-8c9f051e3a14) - with audio and presentation summary
 * UW’s messaging about AI & CS Education
-  * [Web page on [Why an Allen School degree continues to be a great choice for students](https://news.cs.washington.edu/2025/09/09/mythbusters-computer-science-edition-why-an-allen-school-degree-continues-to-be-a-great-choice-for-students/)
+  * [Why an Allen School degree continues to be a great choice for students](https://news.cs.washington.edu/2025/09/09/mythbusters-computer-science-edition-why-an-allen-school-degree-continues-to-be-a-great-choice-for-students/)
   * News story [Coding is dead: UW computer science program rethinks curriculum for the AI era](https://www.geekwire.com/2025/coding-is-dead-uw-computer-science-program-rethinks-curriculum-for-the-ai-era/)
 * Rajeev Kaul’s post - [Software Engineers Should Be Excited, Not Anxious, About AI](https://www.linkedin.com/pulse/software-engineers-should-excited-anxious-ai-rajeev-kaul-eaqme/?trackingId=hN1FZdY3TUqGYxKyeURfCw%3D%3D)
 

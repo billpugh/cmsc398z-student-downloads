@@ -7,11 +7,11 @@ For class today, we are going to be working on fixing issues in the congressiona
 * Doing this for real involves making a public pull request, which we cannot ask you to do for a class project.
 * However, after Derek and I have had a chance to review your work, you can choose to make a public pull request to merge your changes into the github repository.
 
-We are going ask you to organize by table, with all the students sitting at a table working on the same issue.
+We are going to ask you to organize by table, with all the students sitting at a table working on the same issue.
 
 * If you don't have access to Claude or gitlab, you can just partner with another student.
 * We will have places where we ask all students at a table to stop work and share what they have learned and their thoughts about how to address the issue.
-* Eventually, we want to submit only one pull request per issue, but that pull request should mention the help from all students who worked on that issue and want to be publically named.
+* Eventually, we want to submit only one pull request per issue, but that pull request should mention the help from all students who worked on that issue and want to be publicly named.
 
 You will typically run the project with a command such as 
 
@@ -27,9 +27,9 @@ The congressional-records project is an example of something you will often see 
 
 However, we don't have a well defined schema as to exactly how information is represented in the HTML files, nor is there a definitive description of how that data should be transformed into JSON in a way that makes it easy to utilize for other applications. The way in which information is represented in HTML files might not be entirely consistent, either as things change over time, or from simple issues such as inconsistencies in things that do not actually result in visually different page images.
 
-So when we look at an issue such as "it doesn't download data for a particular day", "it crashes when trying to download data for a particular day", or "this item seems be be mislabeled", you don't want to just fix that particular issue. Rather, you want to deeply understand why that issue is occurring, see if related issues might be occurring in other cases that aren't flagged in the issue report, and think at a broader level about "is there a better way to handle this situation to make the results better?". There may not be a spec that describes what the code should do in this situation, you might have to propose a good way to handle that situation.
+So when we look at an issue such as "it doesn't download data for a particular day", "it crashes when trying to download data for a particular day", or "this item seems to be mislabeled", you don't want to just fix that particular issue. Rather, you want to deeply understand why that issue is occurring, see if related issues might be occurring in other cases that aren't flagged in the issue report, and think at a broader level about "is there a better way to handle this situation to make the results better?". There may not be a spec that describes what the code should do in this situation, you might have to propose a good way to handle that situation.
 
-Generally, you shouldn't need to look at a lot of json files yourself. You can download the json files for some dates, and then ask claude to analyze them (e.g., "of all the content items that have properties _X_, analyze their _Y_ attributes").
+Generally, you shouldn't need to look at a lot of json files yourself. You can download the json files for some dates, and then ask Claude to analyze them (e.g., "of all the content items that have properties _X_, analyze their _Y_ attributes").
 
 ### Helpful resources
 
@@ -71,9 +71,9 @@ Roughly 1/3 of the content items with kind="speech" have a null entry for speake
 Hopefully, the steps described here will allow you to create a gitlab repository 
 and do your work in it so that you can create a pull request. But we've never done this before.
 
-### Emergancy option if using gitlab.cs.umd.edu doesn't work
+### Emergency option if using gitlab.cs.umd.edu doesn't work
 
-Only do the following if we declare that gitlab.cs.umd.edu isn't goint to work today, and we want you to use this alternative method:
+Only do the following if we declare that gitlab.cs.umd.edu isn't going to work today, and we want you to use this alternative method:
 
 ```bash
 git clone https://github.com/billpugh/congressional-record.git
@@ -83,7 +83,7 @@ to get a copy of the repository you can work on, and we will figure out how to a
 
 ### Creating a repository in which to do your work
 
-If you download the repository last week to look at it, delete that or rename it. You will need to check out a fresh copy.
+If you downloaded the repository last week to look at it, delete that or rename it. You will need to check out a fresh copy.
 
 * Sign into your gitlab.cs.umd.edu account
 
@@ -95,9 +95,9 @@ If you download the repository last week to look at it, delete that or rename it
 
 * Inside that tab, you will see a second set of tabs, one of which is "Group" (or the name of your course group).
 
-* When they click the "Group" tab, the Course-Template project will appear as a selectable template.
+* When you click the "Group" tab, the Course-Template project will appear as a selectable template.
 
-* They select it, give their new project a name (e.g., jane-doe-project), and set its visibility to Private.
+* Select it, give their new project a name (e.g., jane-doe-project), and set its visibility to Private.
 
 ### Downloading the repository
 
@@ -120,7 +120,7 @@ git checkout -b pugh-assignment
 ```
 If it is not already there, create a directory named student-assignments.
 Create a file in this directory with _your name_.md that gives your name, the issue you are working on, and if you are working with 
-a partner, there name as well.
+a partner, their name as well.
 
 Add and commit that file, and then push that change.
 
@@ -134,7 +134,7 @@ Do your work on the project.
 
 Add and commit your work as you make progress. You can push your changes to gitlab as often as your like, but do that before you do the pull request. 
 
-When you have are satisfied with your work on the project, push your changes and make a pull request.
+When you are satisfied with your work on the project, push your changes and make a pull request.
 
 
 ## No readings for next week

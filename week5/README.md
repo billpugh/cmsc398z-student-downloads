@@ -2,7 +2,7 @@
 
 ## Coding projects
 
-### Project 5 - [Extractions](extractions)
+### Project 5 - [Extractions](extraction)
 
 ## Presented in class
 
@@ -11,7 +11,7 @@
 ## Learning logs
 
 * [Questions on class work and projects, due noon
-Tuesday, Oct 7th](extractions/Results.md) - put in Results.md
+Tuesday, Oct 7th](extraction/Results.md) - put in Results.md
 and submit along with your project code
 * Due Oct 10th, 2pm
   * Learn something new about the llm tool, not covered in our Oct 3rd class or the rest of Simon's pycon workshop, play with it, and write up a short description of what capability you learned about and your experiences with it. 

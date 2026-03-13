@@ -7,7 +7,7 @@ You just need to submit docs/LEARNINGS-WEEK1.md from the directory where you wor
 
 ## Work in class
 
-We are going to have you work on getting quuly running within codespaces, and then understanding portions of the quuly. This is a big project. Most of it is going to involve you trying to understand quuly and doing a code review, but we also want you to see it running so you can experience how it works from the perspective of a TA. The goals of this weeks lesson are described in [GOAL-WEEK1.md](GOAL-WEEK1.md). We are going to continue working on quuly for our final class next week. 
+We are going to have you work on getting quuly running within codespaces, and then understanding portions of quuly. This is a big project. Most of it is going to involve you trying to understand quuly and doing a code review, but we also want you to see it running so you can experience how it works from the perspective of a TA. The goals of this weeks lesson are described in [GOAL-WEEK1.md](GOAL-WEEK1.md). We are going to continue working on quuly for our final class next week. 
 
 We have a set of very specific learning objectives for this week. You could also use this project as a starting point for learning about other aspects of building a
 large web service. You do not need to study these, but you are welcome (and encouraged) to do so if you have free time after completing the learning objectives for the week
@@ -88,13 +88,13 @@ Your steps:
 * Select Codespaces: Connect to Codespace...
 * Select your Codespace
 
-### Starting claude in Codespaces
+### Starting Claude in Codespaces
 
-Once you have opened your codespace within VS Code, you should open a terminal window in VS Code and then type `claude`. That will start claude within the codespaces environment, which means it will have direct access to the commands, database and other components of your running application when you get it running.
+Once you have opened your codespace within VS Code, you should open a terminal window in VS Code and then type `claude`. That will start Claude within the codespaces environment, which means it will have direct access to the commands, database and other components of your running application when you get it running.
 
-When you first start claude, it will ask you to authenticate. You will need to do this to get claude access inside of codespaces.
+When you first start Claude, it will ask you to authenticate. You will need to do this to get Claude access inside of codespaces.
 
-Once claude is running, tell it `walk me through @docs/LESSON_PLAN.md`. An overview of the lesson plan is in [GOAL-WEEK1.md](GOAL-WEEK1.md).
+Once Claude is running, tell it `walk me through @docs/LESSON_PLAN.md`. An overview of the lesson plan is in [GOAL-WEEK1.md](GOAL-WEEK1.md).
 
 
 

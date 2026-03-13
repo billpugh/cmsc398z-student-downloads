@@ -1,6 +1,6 @@
 # Week 5 project
 
-For our week 5 project, we are going to explore extracting data from 4 different data sources. You can do a deep dive on just one or two of these, or do a exploratory evaluation of 3 or 4 of them. You don't have to pick them in order, pick any subset you want to work on.
+For our week 5 project, we are going to explore extracting data from 4 different data sources. You can do a deep dive on just one or two of these, or do an exploratory evaluation of 3 or 4 of them. You don't have to pick them in order, pick any subset you want to work on.
 
 * [Unparsable addresses from our week 4 project](#unparsable-addresses)
 * [The FEMA emergency declaration document](#fema-emergency-declarations)
@@ -67,19 +67,19 @@ The file addresses.txt in the week 5 directory is a list of street addresses fro
 * Street name
 * Street kind (e.g., RD or ST). It doesn't matter what abbreviation is used (e.g., RD, Road or ROAD is fine)
 
-The most important items are the original street address, street name and street kind. Those items should be extracted even of the street address or unit description cannot.
+The most important items are the original street address, street name and street kind. Those items should be extracted even if the street address or unit description cannot.
 
 When thinking about incorporating the capability to make calls to LLMs into a tool, you could make a call for each address you need to parse. However, it would be faster and cheaper to batch a call to parse an entire batch of addresses.
 
 ### FEMA emergency declarations
 
-This involves parsing the FEMA Daily Operations Briefing, as described [previously](structured-data-extraction.md#something-a-bit-more-impressive). For consistency, you might want to pick a specific date, rather than current one. You could pick a day after a significant disaster, rather than just picking a consistent recent date. For example, the [briefing for 09-28-2024.pdf](https://disastercenter.com/FEMA%20Daily%20Ops%20Briefing%2009-28-2024.pdf) shows some of the disaster declarations after Tropical Cyclone Helene. Note that in URLs passed to llm, spaces will need to be URL-encoded, replacing spaces with %20:
+This involves parsing the FEMA Daily Operations Briefing, as described [previously](prompting.md#browsing-the-logs-with-datasette). For consistency, you might want to pick a specific date, rather than current one. You could pick a day after a significant disaster, rather than just picking a consistent recent date. For example, the [briefing for 09-28-2024.pdf](https://disastercenter.com/FEMA%20Daily%20Ops%20Briefing%2009-28-2024.pdf) shows some of the disaster declarations after Tropical Cyclone Helene. Note that in URLs passed to llm, spaces will need to be URL-encoded, replacing spaces with %20:
 
 ```text
 https://disastercenter.com/FEMA%20Daily%20Ops%20Briefing%2009-28-2024.pdf
 ```
 
-You will almost certainly seem some semantically insignificant variations, but in my own testing I found rare but very significant inconsistencies.
+You will almost certainly see some semantically insignificant variations, but in my own testing I found rare but very significant inconsistencies.
 
 ### Sanctions of Maryland attorneys
 

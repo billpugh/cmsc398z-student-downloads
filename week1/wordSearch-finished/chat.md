@@ -1,4 +1,4 @@
-billpugh: create a Python class that takes a list of strings. The length of the first string is the number of colums and the length of the list is the number of rows.
+billpugh: create a Python class that takes a list of strings. The length of the first string is the number of columns and the length of the list is the number of rows.
 
 GitHub Copilot: Before I implement the class, could you describe what functionality it should provide? For example, should it store the grid, allow access to individual elements, or support searching? And what should its methods return?
 
@@ -70,7 +70,7 @@ The grid now includes an additional row of spaces, with a length of columns plus
 
 Would you like to discuss how Python handles string multiplication (e.g., `' ' * (self.__cols + 1)`), or is that already clear to you?
 
-billpugh: Add an enum Dir with members UP, DOWN, LEFT and RIGHT. The enum should have two attributed, deltaR (for deltaRow) and deltaC (for deltaColumn). For Up, the attributes should be -1 and 0. For Right, they should be 0 and 1. 
+billpugh: Add an enum Dir with members UP, DOWN, LEFT and RIGHT. The enum should have two attributes, deltaR (for deltaRow) and deltaC (for deltaColumn). For Up, the attributes should be -1 and 0. For Right, they should be 0 and 1. 
 
 GitHub Copilot: 
 ```
@@ -217,7 +217,7 @@ Expected:
 Got:
     [(0, 1, <Dir.RIGHT: (0, 1)>)]
 
-    So it is returning the right value, but the doc test is distinguishing beween Dir.RIGHT and <Dir.RIGHT: (0, 1)>. How should that be corrected?
+    So it is returning the right value, but the doc test is distinguishing between Dir.RIGHT and <Dir.RIGHT: (0, 1)>. How should that be corrected?
 
 GitHub Copilot: This happens because Python’s doctest compares the string representation of the result, and for enums, it shows `<Dir.RIGHT: (0, 1)>` instead of `Dir.RIGHT`.
 
@@ -271,7 +271,7 @@ Would you like to discuss Python's input handling or see how to process further 
 
 billpugh: input1.txt is an example of an input file we are going to use. 
 
-Now that the word grid is read, reach each following line to get a word, and pass it to the find method. If it returns an empty list, it should print "{word} not found". Otherwise, for each result, it should print "{word} found {dir.name} from ({row},{col}).
+Now that the word grid is read, read each following line to get a word, and pass it to the find method. If it returns an empty list, it should print "{word} not found". Otherwise, for each result, it should print "{word} found {dir.name} from ({row},{col}).
 
 GitHub Copilot: 
 ```

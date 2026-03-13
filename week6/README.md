@@ -4,7 +4,7 @@
 
 Continuing to work on data extraction
 
-### Project 5 - [Extractions](../week5/extractions)
+### Project 5 - [Extractions](../week5/extraction)
 
 ## Presented in class
 
@@ -13,7 +13,7 @@ Continuing to work on data extraction
 ## Learning logs
 
 * [Questions on class work and projects, due noon
-Friday, Oct 17th](extractions/Results.md) - update Results.md
+Friday, Oct 17th](../week5/extraction/Results.md) - update Results.md
 and submit along with your project code
 
 ## Readings for Friday, Oct 17th

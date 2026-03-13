@@ -116,7 +116,7 @@ import sqlite_utils
 
 # Get your model and make a request
 model = llm.get_model("gpt-4o-mini")
-response = model.prompt("Five surprising names for a pet terripin")
+response = model.prompt("Five surprising names for a pet terrapin")
 
 # Force evaluation of the response
 text = response.text()

@@ -87,7 +87,7 @@ Notes:
 
 - The script joins all provided arguments into the question (so you can pass a multiword question without extra quoting issues).
 - For the best streaming behavior, install coreutils (for stdbuf) or expect (for unbuffer). On some systems script is already available and will also work.
-- Running code that an LLM has generated without first reviewing it generally a *terrible* idea!
+- Running code that an LLM has generated without first reviewing it is generally a *terrible* idea!
 
 If you want to port the above to Python you should consult the [Working with collections](https://llm.datasette.io/en/latest/embeddings/python-api.html#working-with-collections) section of LLM's Python API documentation.
 

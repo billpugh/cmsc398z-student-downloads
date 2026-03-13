@@ -9,6 +9,8 @@ paginate: true
 ### Emeritus Professor of Computer Science, retired from UMD in 2012
 
 ### Presented at AICSEPAR 2026
+### Course web page: https://www.cs.umd.edu/class/fall2025/cmsc398z
+### Git repository: https://github.com/billpugh/cmsc398z-student-downloads
 
 ---
 
@@ -18,7 +20,7 @@ A year ago, starting to think the AI wave *could* have a huge impact on how soft
 
 Most CS faculty had not made any serious attempt to understand what AI coding tools could do and weren't taking any action about updating the curriculum
 
-Some just forbid use of AI on homework assignments
+Some just forbid use of AI on homework assignments in their courses
 *  hoped we wouldn't have to do much else
   
 Some had very low opinion of the capabilities of AI coding tools
@@ -28,7 +30,7 @@ Some had very low opinion of the capabilities of AI coding tools
 
 # What could I do?
 
-Starting reading what I could, met with people, started trying to use the tools myself.
+Started reading what I could, met with people, started trying to use the tools myself.
 
 I didn't need a committee to sign off on me offering a course in the fall. 
 * Wanted to try to get students as close to the edge of what was possible. 
@@ -65,7 +67,7 @@ I've become pretty good at using AI coding tools
 * I no longer type source code, or even review it
 * I now work at a higher level of abstraction
   * Claude has typed 30,000 lines of python, 2,500 lines of rust over the past month for me on a side project
-* I've internalized a lot of concepts about software design, algorithms and architecture
+* Over 53+ years of coding, I've internalized a lot of concepts about software design, algorithms and software architecture
   
 I don't know if coding without AI tools is important to learning those concepts 
 
@@ -81,7 +83,9 @@ Changes needed will be even bigger by next fall
 
 Happy to provide the materials in my class
 
-The goals of what I did in the class and non-AI topics we covered are still largely appropriate (e.g, python, json, schemas, noisy data, non-deterministic processing, verifying results)
+The goals of what I did in the class and non-AI topics we covered are still largely appropriate 
+* python, json, schemas, noisy data, non-deterministic processing, verifying results
+* Getting AI tools to work as tutors rather than answer machines
 
 
 ---
@@ -165,14 +169,14 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 # Modifying Python Idle editor, week 8
 
 * Project from [Spring 2025 offering of UCSD CSE 190](https://cse190largecodebases.github.io/sp25/)
-* Worked on gettting students moved to Claude
+* Worked on getting students moved to Claude
 
 
 ---
 
 # Working on Congressional Record - weeks 9-10
 
-* work on codebase for extract data from the Congressional record
+* work on codebase for extracting data from the Congressional record
 * Reviewing various issues filed against it
     * Bugs in handling specific cases
     * Not handling content other than speeches well
@@ -184,12 +188,12 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 * weeks 11-12
 * Build a social media app from scratch (e.g., BlueSky, Instagram)
   * Have objects such as posts, users, one or more of likes, follows, images and more
-  * First built as a  monolithic Flask app in python with a database backend
+  * First built as a monolithic Flask app in python with a database backend
   * Then rebuilt with a Javascript front end and REST backend
 * Put a lot of work into providing guidance so that Claude would work as a tutor, rather than an answer machine
 
 ---
-# Wrap up
+# Course Wrap up, weeks 13-14
 * Look at quuly aka officehours.cs.umd.edu
   * a very complicated system some UMD students had built for managing queues for course office hours 
   * Had the idea to turn it into a start-up, that didn't go anywhere

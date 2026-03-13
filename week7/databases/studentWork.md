@@ -2,7 +2,7 @@
 
 ## Using LLMs to generate SQL to answer questions
 
-If you experimented with more that one query, feel free to repeat the following for each question
+If you experimented with more than one query, feel free to repeat the following for each question
 
 ### Question or prompt given to the LLM
 
@@ -22,7 +22,7 @@ If you have the generated SQL or output from running the query, you can provide 
 
 ## Embeddings and Vector Databases
 
-If you experimented with more that one query, feel free to repeat the following for each question
+If you experimented with more than one query, feel free to repeat the following for each question
 
 ### Question or prompt given to the LLM
 

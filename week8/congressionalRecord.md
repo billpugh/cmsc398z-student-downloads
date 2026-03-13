@@ -2,7 +2,7 @@
 
 This tool converts HTML files containing the text of the Congressional Record into structured text data. It is particularly useful for identifying speeches by members of Congress.
 
-* Software hasn't seen updates since 2019, has some problems, include dependencies on deprecated APIs
+* Software hasn't seen updates since 2019, has some problems, including dependencies on deprecated APIs
 * Documentation is pretty sparse and poor
 * But still serves a useful purpose
 * Plan is for our class to reboot it, make it work well. 

@@ -2,7 +2,7 @@
 
 ## Coding projects
 
-### Project 7 - [Datebases](databases)
+### Project 7 - [Databases](databases)
 
 ## Presented in class
 

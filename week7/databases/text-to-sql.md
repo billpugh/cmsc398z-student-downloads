@@ -6,7 +6,7 @@ Ask a question of your database in English, get a response from a custom SQL que
 
 ## The UMD course database
 
-Bill Pugh developed a project to scrap the the Testudo web site to collect data about UMD courses.
+Bill Pugh developed a project to scrape the Testudo web site to collect data about UMD courses.
 
 Download and save the course database from [https://www.cs.umd.edu/class/fall2025/cmsc398z/files/umd-202508.db](https://www.cs.umd.edu/class/fall2025/cmsc398z/files/umd-202508.db)
 
@@ -47,7 +47,7 @@ SELECT department, COUNT(*) AS courses FROM course_info GROUP BY department ORDE
 ...
 ```
 
-So, lets's be a little more specific
+So, let's be a little more specific
 
 ```bash
 llm -f schema.sql -s "reply with sqlite SQL" \

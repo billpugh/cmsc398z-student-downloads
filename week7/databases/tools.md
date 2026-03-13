@@ -8,7 +8,7 @@ This feature of LLM was *so new* that I haven't even formally announced it yet. 
 
 LLM systems can be expanded by giving them the ability to **execute tools**.
 
-Ever heard the complaints about how LLMs are computers that can'd do math, and language tools that can't count the number of Rs in the word strawberry?
+Ever heard the complaints about how LLMs are computers that can't do math, and language tools that can't count the number of Rs in the word strawberry?
 
 Tools can solve those problems, and so many more.
 
@@ -70,7 +70,7 @@ chain_response = model.chain(
 print(chain_response.text())
 ```
 
-The `chain()` method handles running multiple prompts in a row to pass the tool results on to th e next prompt.
+The `chain()` method handles running multiple prompts in a row to pass the tool results on to the next prompt.
 
 ## Running calculations with simpleeval
 

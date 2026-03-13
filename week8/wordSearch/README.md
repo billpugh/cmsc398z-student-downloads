@@ -39,4 +39,4 @@ After the empty line, each line will contain one word. You can assume it is all 
 
 If a word occurs in the grid multiple times, you may optionally list all occurrences.
 
-For today, you only need to consider words oriented up, down, left and right. Diagonal orientations might be be added as a feature, design your system to anticipate that.
+For today, you only need to consider words oriented up, down, left and right. Diagonal orientations might be added as a feature, design your system to anticipate that.

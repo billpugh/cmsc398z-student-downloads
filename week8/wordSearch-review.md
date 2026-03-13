@@ -4,6 +4,6 @@
 
 *Do you see anything where the code would do the wrong thing?*
 
-*Is there anything in the code that you think it too terse and hard to understand?*
+*Is there anything in the code that you think is too terse and hard to understand?*
 
-*Are there any cases where the claude is more verbose or complicated than you think necessary for this project?*
+*Are there any cases where Claude is more verbose or complicated than you think necessary for this project?*

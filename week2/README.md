@@ -30,6 +30,6 @@
 
 ## Suggested links for following what is happening in AI
 
-* [Bill's Twiiter list of people to follow](https://x.com/i/lists/1960455016759877884)
-* [Techmeme](https://techmeme.com).  Podcast  available at [Apple podcast link](https://podcasts.apple.com/us/podcast/tech-brew-ride-home/id1355212895) or  [Spotify](https://open.spotify.com/show/1jBNbPVlGUen3sWdd25ho6)
+* [Bill's Twitter list of people to follow](https://x.com/i/lists/1960455016759877884)
+* [Techmeme](https://techmeme.com).  Podcast available at [Apple podcast link](https://podcasts.apple.com/us/podcast/tech-brew-ride-home/id1355212895) or [Spotify](https://open.spotify.com/show/1jBNbPVlGUen3sWdd25ho6)
 * [Hardfork podcast from NY Times](https://www.nytimes.com/column/hard-fork)

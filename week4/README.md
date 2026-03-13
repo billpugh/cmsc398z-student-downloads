@@ -19,7 +19,7 @@ and submit along with your project code
 
 ## Readings for Friday, Oct 3rd
 
-Work by [Leo Porter from UCSD](https://leoporter.ucsd.edu), who will be visiting UMD and giving a talk at 11am on Wednesday Oct 8th in IRB 4105. His group has done some of the most forwarding thinking work on how CS courses might be updated in the age of AI coding tools.
+Work by [Leo Porter from UCSD](https://leoporter.ucsd.edu), who will be visiting UMD and giving a talk at 11am on Wednesday Oct 8th in IRB 4105. His group has done some of the most forward-thinking work on how CS courses might be updated in the age of AI coding tools.
 
 * [In This Era of AI, Will Everyone Be a Programmer?](https://today.ucsd.edu/story/in-this-era-of-ai-will-everyone-be-a-programmer)
 * [CS1-LLM: Integrating LLMs into CS1 Instruction](https://mcs.utm.utoronto.ca/~zingarod/iticse24_cs1llm.pdf)

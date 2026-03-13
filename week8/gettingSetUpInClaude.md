@@ -1,4 +1,4 @@
-# Getting Setup in Claude
+# Getting Set Up in Claude
 
 * [Claude code documentation](https://docs.claude.com/en/docs/claude-code/overview)
   * [Claude code overview](https://docs.claude.com/en/docs/claude-code/overview)

@@ -16,13 +16,13 @@ paginate: true
 
 A year ago, starting to think the AI wave *could* have a huge impact on how software development gets done
 
-Most UMD CS faculty had not made any serious attempt to understand what AI coding tools could do and weren't taking any action about updating the curriculum
+Most CS faculty had not made any serious attempt to understand what AI coding tools could do and weren't taking any action about updating the curriculum
 
-Many just forbid use of AI on homework assignments
+Some just forbid use of AI on homework assignments
 *  hoped we wouldn't have to do much else
   
-Many had very low opinion of the capabilities of AI coding tools
-* perhaps they tried them a year ago, or never tried them
+Some had very low opinion of the capabilities of AI coding tools
+* perhaps they tried them in 2024, or never tried them
 
 ---
 
@@ -37,18 +37,6 @@ I didn't need a committee to sign off on me offering a course in the fall.
 Small course for a number of reasons (lack of rooms and timeslots), knowing how much work I was going to have to put into it.
 
 By great fortune, Derek Willis, an instructor from the Journalism school, already somewhat proficient in use of AI for data and analytics reporting, contacted me about my course and I talked him into being a co-instructor
-
----
-# This is moving so damn fast
-
-* Discussions I had at Google and Microsoft in May 25 were out of date by beginning of semester
-  * Even course title was out of date
-  * Smart autocomplete no longer interesting/relevant
-* September: Claude Sonnet 4.5 was a huge step up in capability
-* Late November: Claude Opus 4.5 another huge step up. Some professional software developers starting using it to write 90-99% of their code
-* February 26: Claude Opus 4.6 and OpenAI Codex 5.3 were another leap forward
-* By next Fall 2026: ???
-* By Spring 2030: ?????
   
 ---
 
@@ -71,11 +59,13 @@ I'm looking forward to many conversations on this topic at this workshop, and in
 ---
 
 
-# I'm not suggesting can stop teaching coding
+# I'm not suggesting we can stop teaching coding
 
 I've become pretty good at using AI coding tools
-* I no longer write source code
-*  because I've internalized a lot of concepts about software design, algorithms and architecture
+* I no longer type source code, or even review it
+* I now work at a higher level of abstraction
+  * Claude has typed 30,000 lines of python, 2,500 lines of rust over the past month for me on a side project
+* I've internalized a lot of concepts about software design, algorithms and architecture
   
 I don't know if coding without AI tools is important to learning those concepts 
 
@@ -92,6 +82,19 @@ Changes needed will be even bigger by next fall
 Happy to provide the materials in my class
 
 The goals of what I did in the class and non-AI topics we covered are still largely appropriate (e.g, python, json, schemas, noisy data, non-deterministic processing, verifying results)
+
+
+---
+# This is moving so damn fast
+
+* Discussions I had at Google and Microsoft in May 25 were out of date by beginning of semester
+  * Even course title was out of date
+  * Smart autocomplete no longer interesting/relevant
+* September: Claude Sonnet 4.5 was a huge step up in capability
+* Late November: Claude Opus 4.5 another huge step up. Some professional software developers starting using it to write 90-99% of their code
+* February 26: Claude Opus 4.6 and OpenAI Codex 5.3 were another leap forward
+* By next Fall 2026: ???
+* By Spring 2030: ?????
 
 ---
 # Course Goals
@@ -187,11 +190,12 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 
 ---
 # Wrap up
-* Look at quuly
-  * a very complicated system some UMD students had built for managing queues for office hours 
+* Look at quuly aka officehours.cs.umd.edu
+  * a very complicated system some UMD students had built for managing queues for course office hours 
   * Had the idea to turn it into a start-up, that didn't go anywhere
-  * Software hadn't been touched in years, no one at UMD wanted to touch it
-  * New frameworks, outdated dependencies, etc. 
+  * Software hadn't been touched in years, no one at UMD felt qualified to update it
+  * Written in unfamiliar frameworks: React/Go with GraphQL
+  * outdated dependencies, no one to address obvious issues and feature requests
 * Parting thoughts
 
 ---

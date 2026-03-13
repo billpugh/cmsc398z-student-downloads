@@ -4,6 +4,8 @@ This respository contains all of the handouts for [CMSC 398z](https://www.cs.umd
 
 Materials will be organized in directories by the week the materials were distributed. 
 
+[Slides](AICSEPAR2026.md) for GenAI in CS Education Workshop: Practice and Research (AICSEPAR) 2026
+
 Everyone is welcome to use this material to follow along with material described in the course, but the ability to submit files to the UMD CS submit server is limited to students enrolled in the course.
 
 * [Week 1, Sept 5](week1) - Setting the stage, playWordle project

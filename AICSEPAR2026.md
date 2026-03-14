@@ -3,24 +3,24 @@ marp: true
 paginate: true
 ---
 
+### Presentation for AICSEPAR 2026
+
 # A Mini-Course to Get CS Students Up to Speed: Effective use of AI Coding Tools: CMSC 398z
 
 ## Bill Pugh, Univ. of Maryland
-### In 2012, promoted myself to Emeritus Professor of Computer Science
+### As of 2012, Emeritus Professor of Computer Science
 
-### Presentation for AICSEPAR 2026
 ### Course web page: https://www.cs.umd.edu/class/fall2025/cmsc398z
 ### Git repository: https://github.com/billpugh/cmsc398z-student-downloads
 
 ---
-
 
 # We *need* to be having a much bigger conversation
 
 AI coding tools are going to fundamentally change how software gets developed. 
 * Maybe by just *a lot*, maybe by *much more* than that. 
 
-We need to understand where the puck is if we want to have any hope of understanding where it might go
+We need to try to understand where the puck *is* if we want to have any hope of understanding where it might go
 
 Skills often not covered/required in the CS undergraduate curriculum will be essential for students to get software development internships or jobs.
 * Not just "How to use AI tools"
@@ -30,15 +30,13 @@ I'm looking forward to many conversations on this topic at this workshop, and in
 
 ---
 
-
 ![bg fit](experienceIt.jpg)
 
 ---
 
+# I'm not saying we can stop teaching coding
 
-# I'm not suggesting we can stop teaching coding
-
-I've become pretty good at using AI coding tools
+I've become pretty good at using AI coding tools to build software
 * I no longer type source code, or even review it
 * I now work at a higher level of abstraction
   * Claude has typed 30,000 lines of python, 2,500 lines of rust over the past month for me on a side project
@@ -92,6 +90,8 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 
 * Get students familiar with the kinds of programming tasks AI coding tools excel at
   * No assumption that students knew Python, Databases, json, etc
+* Projects generally open ended, incompletely specified
+* All coding in class; avoid students getting stuck
 * Get them access to several different coding models
   * Initially, GitHub for education, free for students
   * Considered several other options for agentic AI tools, settled on Claude
@@ -100,18 +100,18 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 
 ---
 
-# Learning Python and using agents - 3 weeks / 6 hours
+# Learning Python and using AI tools - 3 weeks / 6 hours
 
-* Provided `.github/copilot-instructions.md` intended to stop AI from just giving answers
+* Provided `.github/copilot-instructions.md`  to stop AI from just giving answers
   * Autocomplete in VSCode+Copilot ignores `copilot-instructions.md`
   * would often complete functions just from function name
   * had to disable autocomplete
 * Finding and utilizing libraries is a core talent of AI coding tools
-* Playing Wordle
+* Playing Wordle, using termcolor library
   * extension: Wordle helper
 * Markov Text Generation
 * Poker hand analysis
-  * extension: What are my chances of winning with these hole cards
+  * extension: What are my chances of winning with these hole cards?
   
 ---
 
@@ -125,15 +125,14 @@ The goals of what I did in the class and non-AI topics we covered are still larg
   * apartment numbers coded inconsistently
   * Some entries had fields that looked like noise
 * Use AI tools to analyze data, suggest ways to manage noise, extract signal
-  * e.g., suggest reg-exs to extract data components
-  
-
+  * e.g., suggest regex's to extract components of addresses
 
 ---
 
 # Making calls to LLMs, weeks 5-6
 
-* Using Simon Willison's llm tool for making calls to LLMs
+* Using [Simon Willison's llm tool](https://github.com/simonw/llm) for making calls to LLMs
+  * Great tool, works with many LLM models and providers
 * Explore one of the following
   * Unparsable addresses from our week 4 project
   * The FEMA emergency declaration document
@@ -141,15 +140,15 @@ The goals of what I did in the class and non-AI topics we covered are still larg
   * A PDF scan of a 1930 census page that is notoriously challenging to extract data from
 * Students had to deal with non-deterministic results, distinguishing between equivalent answers (e.g., Maryland vs. MD) and incompatible answers 
 
-
 ---
 
 # Databases, vector embeddings, week 7
 
 * Didn't assume any previous exposure to databases or SQL
 * Using LLMs to understand database schema, write SQL to extract and present data from database
-  * Gave them database of UMD course catalog
-
+  * Gave them database of UMD course listing including data on rooms and enrollment
+  * In what class period are the most students in class in the Iribe Center?
+  * What are the earliest and latest classes scheduled?
 
 ---
 
@@ -158,19 +157,18 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 * Project from [Spring 2025 offering of UCSD CSE 190](https://cse190largecodebases.github.io/sp25/)
 * Worked on getting students moved to Claude
 
-
 ---
 
 # Working on Congressional Record - weeks 9-10
 
 * work on codebase for extracting data from the Congressional record
 * Reviewing various issues filed against it
-    * Bugs in handling specific cases
+    * Bugs in handling specific cases, corner cases, etc
     * Not handling content other than speeches well
 
 ---
 
-# Building a social media app with tutoring 
+# Building a social media app with AI tutoring 
 
 * weeks 11-12
 * Build a social media app from scratch (e.g., BlueSky, Instagram)
@@ -190,7 +188,7 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 * Parting thoughts
 
 ---
-# Future Work: coding agents as personal tutors
+# Future Work: AI coding tools as personal tutors
 
 * Rather than as answer machines
 * Did this in first python projects, just telling copilot to not write large sections of code
@@ -202,3 +200,13 @@ The goals of what I did in the class and non-AI topics we covered are still larg
   * But no linear script, more of an open world game
   * Adding hooks, introspection, lots of potential for future work
 * Would have worked more on it, but I got side tracked into using Claude to update a paper in theoretical computer science I published in 1996: V<sub>7</sub>(16) = 28
+
+---
+
+
+![bg top w:1200px](slidesQRcode.png)
+# Followups
+* [Talk I gave at Aarhus](https://docs.google.com/presentation/d/11jckZEldlK8_kNuUnkNB59r6ywH9y-RlLjf027Nfy5s/edit?usp=sharing)
+* [Talk I gave to coaches at UMD High School Programming Contest](https://docs.google.com/presentation/d/1OzQo0h24ojQ_rs4Sd8BFYFBgXD1E9sctbVy_NK7-Eto/edit?usp=sharing)
+* [Simon Willison's blog](https://simonwillison.net) - best place to stay up to date on AI code tools
+# Questions and discussion

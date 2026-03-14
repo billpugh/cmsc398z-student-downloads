@@ -6,9 +6,9 @@ paginate: true
 # A Mini-Course to Get CS Students Up to Speed: Effective use of AI Coding Tools: CMSC 398z
 
 ## Bill Pugh, Univ. of Maryland
-### Emeritus Professor of Computer Science, retired from UMD in 2012
+### In 2012, promoted myself to Emeritus Professor of Computer Science
 
-### Presented at AICSEPAR 2026
+### Presentation for AICSEPAR 2026
 ### Course web page: https://www.cs.umd.edu/class/fall2025/cmsc398z
 ### Git repository: https://github.com/billpugh/cmsc398z-student-downloads
 
@@ -20,10 +20,10 @@ paginate: true
 AI coding tools are going to fundamentally change how software gets developed. 
 * Maybe by just *a lot*, maybe by *much more* than that. 
 
-We need to be trying to figure out where the puck is going
+We need to understand where the puck is if we want to have any hope of understanding where it might go
 
 Skills often not covered/required in the CS undergraduate curriculum will be essential for students to get software development internships or jobs.
-* Not just "How to use AI tools", but all sorts of skills they typically picked up in the workplace.
+* Not just "How to use AI tools"
 * *See next talk*: [What do professional software developers need to know to succeed](https://dl.acm.org/doi/10.1145/3696630.3727251) ...
 
 I'm looking forward to many conversations on this topic at this workshop, and in follow up conversations.

@@ -10,7 +10,6 @@ You just need to [complete and submit this form](https://docs.google.com/forms/d
 
 ## Links
 
-* If you don't have access to Claude, everyone should have a chance to try it. You can use this [link](https://tools.simonwillison.net/encrypt#2JKlrMj2CEZO3jXh5KvO7eZTrgS5F6Y6QkDQUVo+3/TOVAaIltMAOdONZnZp6put7MtO9b3yax+HPrfgR7whhkMaXIZ8dizoc1j5DuQ8AxfMf4yXraBBrgLhBRvfFgnmHiSRrMvknArrSrnAxP/Oob2UIaSqcZJSdiEXYOESqQpyuisfCT5d/j85gXOluFi6aXO9XyCmpu0=) to get a Claude API key, which will allow you to use Claude code. Only for students that don't have a claude Pro account, I've put $30 on it, but that is for all those students to share. Ask Bill for the passphrase.
 * Writeups of my analysis of quuly
   * [BILLS-LEARNINGS-WEEK1.md](BILLS-LEARNINGS-WEEK1.md)
   * [UPDATING_CONVERSATIONS.md](UPDATING_CONVERSATIONS.md)

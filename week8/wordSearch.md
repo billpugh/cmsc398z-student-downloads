@@ -6,7 +6,7 @@ Claude should be able to accomplish all of the following steps in a few minutes.
 
 Give the command '/init' to have it read the files in the directory and produce [wordSearch/CLAUDE.md](wordSearch/CLAUDE.md)
 
-Ask claude to develop a design for implementing the project in python, and put the design in design.md. You can decide what you ask it to put into the design, other than that it shouldn't include any code.
+Ask Claude to develop a design for implementing the project in python, and put the design in design.md. You can decide what you ask it to put into the design, other than that it shouldn't include any code.
 
 Ask it to write the code for the project and test it. Tell it that if it needs to make any changes from the initial design, it should document those changes.
 

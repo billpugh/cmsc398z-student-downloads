@@ -14,42 +14,17 @@ paginate: true
 
 ---
 
-# Course Origins
-
-A year ago, starting to think the AI wave *could* have a huge impact on how software development gets done
-
-Most CS faculty had not made any serious attempt to understand what AI coding tools could do and weren't taking any action about updating the curriculum
-
-Some just forbid use of AI on homework assignments in their courses
-*  hoped we wouldn't have to do much else
-  
-Some had very low opinion of the capabilities of AI coding tools
-* perhaps they tried them in 2024, or never tried them
-
----
-
-# What could I do?
-
-Started reading what I could, met with people, started trying to use the tools myself.
-
-I didn't need a committee to sign off on me offering a course in the fall. 
-* Wanted to try to get students as close to the edge of what was possible. 
-* Teaching something is a great way to learn it.
-
-Small course for a number of reasons (lack of rooms and timeslots), knowing how much work I was going to have to put into it.
-
-By great fortune, Derek Willis, an instructor from the Journalism school, already somewhat proficient in use of AI for data and analytics reporting, contacted me about my course and I talked him into being a co-instructor
-  
----
 
 # We *need* to be having a much bigger conversation
 
 AI coding tools are going to fundamentally change how software gets developed. 
 * Maybe by just *a lot*, maybe by *much more* than that. 
 
+We need to be trying to figure out where the puck is going
+
 Skills often not covered/required in the CS undergraduate curriculum will be essential for students to get software development internships or jobs.
 * Not just "How to use AI tools", but all sorts of skills they typically picked up in the workplace.
-* *See next talk*: What do professional software developers need to know to succeed...
+* *See next talk*: [What do professional software developers need to know to succeed](https://dl.acm.org/doi/10.1145/3696630.3727251) ...
 
 I'm looking forward to many conversations on this topic at this workshop, and in follow up conversations.
 
@@ -72,14 +47,26 @@ I've become pretty good at using AI coding tools
 I don't know if coding without AI tools is important to learning those concepts 
 
 ---
+# Back to our originally scheduled presentation  
 
+CMSC 398z: A 1 credit course for Fall 2025 that I decided to offer in June
 
+Started trying to get up to speed myself starting in May
+
+No committee approval needed. 2 hour lab sessions each Friday, no coding expected outside of class
+
+Course goals: try to help student see what AI coding tools were capable of, and what teaching that to students would be like
+
+By great fortune, Derek Willis, an instructor from the Journalism school, already somewhat proficient in use of AI for data and analytics reporting, contacted me about my course and I talked him into being a co-instructor
+
+  
+---
 
 # Materials in my class are already out of date
 
 If I taught the same course again this semester, I would want to significantly revise them due to changes in what AI models can do now
 
-Changes needed will be even bigger by next fall
+Bigger changes needed will be appropriate by next fall
 
 Happy to provide the materials in my class
 
@@ -108,8 +95,8 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 * Get them access to several different coding models
   * Initially, GitHub for education, free for students
   * Considered several other options for agentic AI tools, settled on Claude
-  * Told students they should just plan to spend $20/month to get access
-  * Students can get access by attending Claude Builders club meeting on campus
+  * Told students they should just plan to spend $20/month for 2 months to get access
+    * Students can get free access by attending Claude Builders club meeting on campus
 
 ---
 
@@ -119,8 +106,8 @@ The goals of what I did in the class and non-AI topics we covered are still larg
   * Autocomplete in VSCode+Copilot ignores `copilot-instructions.md`
   * would often complete functions just from function name
   * had to disable autocomplete
+* Finding and utilizing libraries is a core talent of AI coding tools
 * Playing Wordle
-  * Finding and utilizing libraries is a core talent of AI coding tools
   * extension: Wordle helper
 * Markov Text Generation
 * Poker hand analysis
@@ -146,13 +133,13 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 
 # Making calls to LLMs, weeks 5-6
 
-* Using Simon Willison's tool for making calls to LLM
+* Using Simon Willison's llm tool for making calls to LLMs
 * Explore one of the following
   * Unparsable addresses from our week 4 project
   * The FEMA emergency declaration document
   * A recent document describing sanctions of Maryland attorneys
   * A PDF scan of a 1930 census page that is notoriously challenging to extract data from
-* Students had to deal with non-deterministic results
+* Students had to deal with non-deterministic results, distinguishing between equivalent answers (e.g., Maryland vs. MD) and incompatible answers 
 
 
 ---

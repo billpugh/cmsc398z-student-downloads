@@ -21,7 +21,7 @@ AI coding tools are going to fundamentally change how software gets developed.
 * Maybe by just *a lot*, maybe by *much more* than that. 
 
 We need to try to understand where the puck *is* if we want to have any hope of understanding where it might go
-* AI tools that 'reason', use tools and iterate (agentic?)
+* AI coding tools that 'reason', use tools and iterate (agentic?)
 
 Skills often not covered/required in the CS undergraduate curriculum will become essential for students to get software development internships or jobs.
 * Not just "How to use AI tools"
@@ -59,7 +59,7 @@ By great fortune, Derek Willis, an instructor from the Journalism school, alread
   
 ---
 
-# Materials in my class are already out of date
+# Materials from my course are already out of date
 
 If I taught the same course again this semester, I would want to significantly revise what I did due to changes in what AI models can do now
 
@@ -176,14 +176,15 @@ The goals of what I did in the class and non-AI topics we covered are still larg
   * First built as a monolithic Flask app in python using a database
   * Then rebuilt with a Javascript front end and REST backend
 * Put a lot of work into providing guidance so that Claude would work as a tutor, rather than an answer machine
+  * Somewhat scripted, with choices of what feature to implement next
 
 ---
 # Course Wrap up, weeks 13-14
 * Look at quuly aka officehours.cs.umd.edu
-  * a very complicated system some UMD students had built for managing queues for course office hours 
-  * Had the idea to turn it into a start-up, that didn't go anywhere
+  * a very complicated system some UMD students had built for managing queues for course office hours
+  * Students had the idea to turn it into a start-up, that didn't go anywhere
   * Software hadn't been touched in years, no one at UMD felt qualified to update it
-  * Written in unfamiliar frameworks: React/Go with GraphQL
+  * Written in unfamiliar frameworks: React and Go with GraphQL and Redis
   * outdated dependencies, no one to address obvious issues and feature requests
 * Parting thoughts
 
@@ -203,11 +204,11 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 
 ---
 
-
 ![bg top w:1200px](slidesQRcode.png)
 # Followups
-* [Talk I gave at Aarhus](https://docs.google.com/presentation/d/11jckZEldlK8_kNuUnkNB59r6ywH9y-RlLjf027Nfy5s/edit?usp=sharing)
+* [Talk I gave at Aarhus on AI Coding tools and taking the red pill](https://docs.google.com/presentation/d/11jckZEldlK8_kNuUnkNB59r6ywH9y-RlLjf027Nfy5s/edit?usp=sharing)
 * [Talk I gave to coaches at UMD High School Programming Contest](https://docs.google.com/presentation/d/1OzQo0h24ojQ_rs4Sd8BFYFBgXD1E9sctbVy_NK7-Eto/edit?usp=sharing)
 * [Simon Willison's blog](https://simonwillison.net) - best place to stay up to date on AI coding tools
+* [UMD CS is hiring PTK to help update our curriculum](https://www.cs.umd.edu/job/2026/jr103397-lecturer-senior-lecturer-assistant-or-associate-clinical-professor-or-professor)
 # Questions and discussion
 * I'm here all week...

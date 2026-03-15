@@ -38,9 +38,9 @@ I'm looking forward to many conversations on this topic at this workshop, and in
 
 I've become pretty good at using AI coding tools to build software
 * I no longer type source code, or even review it
-* I now work at a higher level of abstraction
+* I now work at a higher level of abstraction, very involved in design and validation
   * Claude has typed 30,000 lines of python, 2,500 lines of rust over the past month for me on a side project
-* Over 53+ years of coding, I've internalized a lot of concepts about software design, algorithms and software architecture
+* I've been coding for 53 years and internalized a lot of concepts about software design, algorithms and software architecture
   
 I don't know if coding without AI tools is important to learning those concepts 
 
@@ -110,7 +110,7 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 * Playing Wordle, using termcolor library
   * extension: Wordle helper
 * Markov Text Generation
-* Poker hand analysis
+* Poker hand analysis - what is the best hand I can make from these 7 cards?
   * extension: What are my chances of winning with these hole cards?
   
 ---
@@ -173,7 +173,7 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 * weeks 11-12
 * Build a social media app from scratch (e.g., BlueSky, Instagram)
   * Have objects such as posts, users, one or more of likes, follows, images and more
-  * First built as a monolithic Flask app in python with a database backend
+  * First built as a monolithic Flask app in python using a database
   * Then rebuilt with a Javascript front end and REST backend
 * Put a lot of work into providing guidance so that Claude would work as a tutor, rather than an answer machine
 
@@ -208,5 +208,6 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 # Followups
 * [Talk I gave at Aarhus](https://docs.google.com/presentation/d/11jckZEldlK8_kNuUnkNB59r6ywH9y-RlLjf027Nfy5s/edit?usp=sharing)
 * [Talk I gave to coaches at UMD High School Programming Contest](https://docs.google.com/presentation/d/1OzQo0h24ojQ_rs4Sd8BFYFBgXD1E9sctbVy_NK7-Eto/edit?usp=sharing)
-* [Simon Willison's blog](https://simonwillison.net) - best place to stay up to date on AI code tools
+* [Simon Willison's blog](https://simonwillison.net) - best place to stay up to date on AI coding tools
 # Questions and discussion
+* I'm here all week...

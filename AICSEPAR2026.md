@@ -21,12 +21,11 @@ AI coding tools are going to fundamentally change how software gets developed.
 * Maybe by just *a lot*, maybe by *much more* than that. 
 
 We need to try to understand where the puck *is* if we want to have any hope of understanding where it might go
+* AI tools that 'reason', use tools and iterate (agentic?)
 
-Skills often not covered/required in the CS undergraduate curriculum will be essential for students to get software development internships or jobs.
+Skills often not covered/required in the CS undergraduate curriculum will become essential for students to get software development internships or jobs.
 * Not just "How to use AI tools"
 * *See next talk*: [What do professional software developers need to know to succeed](https://dl.acm.org/doi/10.1145/3696630.3727251) ...
-
-I'm looking forward to many conversations on this topic at this workshop, and in follow up conversations.
 
 ---
 
@@ -62,9 +61,9 @@ By great fortune, Derek Willis, an instructor from the Journalism school, alread
 
 # Materials in my class are already out of date
 
-If I taught the same course again this semester, I would want to significantly revise them due to changes in what AI models can do now
+If I taught the same course again this semester, I would want to significantly revise what I did due to changes in what AI models can do now
 
-Bigger changes needed will be appropriate by next fall
+Bigger changes would be appropriate by next fall
 
 Happy to provide the materials in my class
 
@@ -82,6 +81,7 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 * September: Claude Sonnet 4.5 was a huge step up in capability
 * Late November: Claude Opus 4.5 another huge step up. Some professional software developers starting using it to write 90-99% of their code
 * February 26: Claude Opus 4.6 and OpenAI Codex 5.3 were another leap forward
+* March 13: 1M context in Claude generally available
 * By next Fall 2026: ???
 * By Spring 2030: ?????
 
@@ -89,9 +89,9 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 # Course Goals
 
 * Get students familiar with the kinds of programming tasks AI coding tools excel at
-  * No assumption that students knew Python, Databases, json, etc
+  * Python, Databases, json, etc
 * Projects generally open ended, incompletely specified
-* All coding in class; avoid students getting stuck
+* All coding in class to avoid students getting stuck
 * Get them access to several different coding models
   * Initially, GitHub for education, free for students
   * Considered several other options for agentic AI tools, settled on Claude
@@ -119,8 +119,8 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 
 * week 4
 * Analyze foreclosure data
-* Gave them a large file of foreclosure data
-* Data was noisy/bad. 
+* Gave them file of data on 75,900 foreclosures
+* Data was noisy
   * Missing zip codes
   * apartment numbers coded inconsistently
   * Some entries had fields that looked like noise

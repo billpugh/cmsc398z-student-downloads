@@ -17,13 +17,13 @@ paginate: true
 
 # We *need* to be having a much bigger conversation
 
-AI coding tools are going to fundamentally change how software gets developed. 
-* Maybe by just *a lot*, maybe by *much more* than that. 
+AI coding tools are going to fundamentally change how software gets developed 
+* Maybe by just *a lot*, maybe by *much more* than that
 
 We need to try to understand where the puck *is* if we want to have any hope of understanding where it might go
 * AI coding tools that 'reason', use tools and iterate (agentic?)
 
-Skills often not covered/required in the CS undergraduate curriculum will become essential for students to get software development internships or jobs.
+Skills often not covered/required in the CS undergraduate curriculum will become essential for students to get software development internships or jobs
 * Not just "How to use AI tools"
 * *See next talk*: [What do professional software developers need to know to succeed](https://dl.acm.org/doi/10.1145/3696630.3727251) ...
 
@@ -61,11 +61,10 @@ By great fortune, Derek Willis, an instructor from the Journalism school, alread
 
 # Materials from my course are already out of date
 
-If I taught the same course again this semester, I would want to significantly revise what I did due to changes in what AI models can do now
+If I taught the same course again this semester, I would  significantly revise it 
+* due to do how much AI coding tools have changed in six months
 
 Bigger changes would be appropriate by next fall
-
-Happy to provide the materials in my class
 
 The goals of what I did in the class and non-AI topics we covered are still largely appropriate 
 * python, json, schemas, noisy data, non-deterministic processing, verifying results
@@ -89,7 +88,7 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 # Course Goals
 
 * Get students familiar with the kinds of programming tasks AI coding tools excel at
-  * Python, Databases, json, etc
+  * Python, databases, markdown, json, schemas, etc
 * Projects generally open ended, incompletely specified
 * All coding in class to avoid students getting stuck
 * Get them access to several different coding models
@@ -115,7 +114,7 @@ The goals of what I did in the class and non-AI topics we covered are still larg
   
 ---
 
-# csv, dataFrames, json, pydantic, noisy/bad data
+# csv, dataFrames, noisy/bad data
 
 * week 4
 * Analyze foreclosure data
@@ -129,7 +128,7 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 
 ---
 
-# Making calls to LLMs, weeks 5-6
+# Making calls to LLMs, json, pydantic, weeks 5-6
 
 * Using [Simon Willison's llm tool](https://github.com/simonw/llm) for making calls to LLMs
   * Great tool, works with many LLM models and providers

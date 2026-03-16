@@ -14,13 +14,13 @@ marp: true
 
 ---
 
-# We *need* to be having a much bigger conversation
+# The elephants in the room (Bill's opinions)
 
 AI coding tools are going to fundamentally change how software gets developed 
 * Maybe by just *a lot*, maybe by *much more* than that
 
 We need to try to understand where the puck *is* if we want to have any hope of understanding where it might go
-* AI coding tools that 'reason', use tools and iterate (agentic?)
+* AI coding tools that 'reason', use tools and iterate (agentic?); CLI for Claude or Codex
 
 Skills often not covered/required in the CS undergraduate curriculum will become essential for students to get software development internships or jobs
 * Not just "How to use AI tools"
@@ -49,7 +49,7 @@ CMSC 398z: A 1 credit course for Fall 2025 that I decided to offer in June
 
 Started trying to get up to speed myself starting in May
 
-No committee approval needed. 2 hour lab sessions each Friday, no coding expected outside of class
+No committee approval needed. 2 hour lab sessions each Friday, no coding expected outside of class. Aimed at juniors/seniors.
 
 Course goals: try to help student see what AI coding tools were capable of, and what teaching that to students would be like
 
@@ -75,11 +75,11 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 
 * Discussions I had at Google and Microsoft in May '25 were out of date by beginning of semester
   * Even course title was out of date
-  * Smart autocomplete no longer interesting/relevant
-* September: Claude Sonnet 4.5 was a huge step up in capability
-* Late November: Claude Opus 4.5 another huge step up. Some professional software developers started using it to write 90-99% of their code
-* February 26: Claude Opus 4.6 and OpenAI Codex 5.3 were another leap forward
-* March 13: 1M context in Claude generally available
+  * Copilot Smart autocomplete no longer interesting/relevant
+* September: Claude Sonnet 4.5 released.
+* Late November: Claude Opus 4.5 released. Some professional software developers started using it to write 90-99% of their code
+* February 26th: Claude Opus 4.6 and OpenAI Codex 5.3 released
+* March 13th: 1M context in Claude generally available
 * By next Fall 2026: ???
 * By Spring 2030: ?????
 
@@ -113,9 +113,8 @@ The goals of what I did in the class and non-AI topics we covered are still larg
   
 ---
 
-# csv, dataFrames, noisy/bad data
+# csv, dataFrames, noisy/bad data, week 4
 
-* week 4
 * Analyze foreclosure data
 * Gave them file of data on 75,900 foreclosures
 * Data was noisy
@@ -207,6 +206,6 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 * [Talk I gave at Aarhus on AI Coding tools and taking the red pill](https://docs.google.com/presentation/d/11jckZEldlK8_kNuUnkNB59r6ywH9y-RlLjf027Nfy5s/edit?usp=sharing)
 * [Talk I gave to coaches at UMD High School Programming Contest](https://docs.google.com/presentation/d/1OzQo0h24ojQ_rs4Sd8BFYFBgXD1E9sctbVy_NK7-Eto/edit?usp=sharing)
 * [Simon Willison's blog](https://simonwillison.net) - best place to stay up to date on AI coding tools
-* [UMD CS is hiring PTK to help update our curriculum](https://www.cs.umd.edu/job/2026/jr103397-lecturer-senior-lecturer-assistant-or-associate-clinical-professor-or-professor)
+* [UMD CS is hiring PTK faculty to help update our curriculum](https://www.cs.umd.edu/job/2026/jr103397-lecturer-senior-lecturer-assistant-or-associate-clinical-professor-or-professor)
 # Questions and discussion
 * I'm here all week...

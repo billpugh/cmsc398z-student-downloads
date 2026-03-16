@@ -8,12 +8,15 @@ wheels/
 .python-version
 *.swp
 .DS_Store
+AICSEPAR2026.pdf
+inconsistencies.md
 
 # uv files; ignore uv.lock since we don't need precise version matching
 uv.lock
 
 # Virtual environments
 .venv
+
 
 # Submit server user info
 .submitUser

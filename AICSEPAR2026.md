@@ -1,6 +1,5 @@
 ---
 marp: true
-paginate: true
 ---
 
 ### Presentation for AICSEPAR 2026
@@ -62,7 +61,7 @@ By great fortune, Derek Willis, an instructor from the Journalism school, alread
 # Materials from my course are already out of date
 
 If I taught the same course again this semester, I would  significantly revise it 
-* due to do how much AI coding tools have changed in six months
+* due to how much AI coding tools have changed in six months
 
 Bigger changes would be appropriate by next fall
 
@@ -74,11 +73,11 @@ The goals of what I did in the class and non-AI topics we covered are still larg
 ---
 # This is moving so damn fast
 
-* Discussions I had at Google and Microsoft in May 25 were out of date by beginning of semester
+* Discussions I had at Google and Microsoft in May '25 were out of date by beginning of semester
   * Even course title was out of date
   * Smart autocomplete no longer interesting/relevant
 * September: Claude Sonnet 4.5 was a huge step up in capability
-* Late November: Claude Opus 4.5 another huge step up. Some professional software developers starting using it to write 90-99% of their code
+* Late November: Claude Opus 4.5 another huge step up. Some professional software developers started using it to write 90-99% of their code
 * February 26: Claude Opus 4.6 and OpenAI Codex 5.3 were another leap forward
 * March 13: 1M context in Claude generally available
 * By next Fall 2026: ???
@@ -199,7 +198,7 @@ The goals of what I did in the class and non-AI topics we covered are still larg
   * Specify key learning objectives, ways to interact and engage with students
   * But no linear script, more of an open world game
   * Adding hooks, introspection, lots of potential for future work
-* Would have worked more on it, but I got side tracked into using Claude to update a paper in theoretical computer science I published in 1996: V<sub>7</sub>(16) = 28
+* Would have worked more on it, but I got sidetracked into using Claude to update a paper in theoretical computer science I published in 1996: V<sub>7</sub>(16) = 28
 
 ---
 
